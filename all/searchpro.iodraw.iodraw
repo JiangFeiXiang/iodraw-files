@@ -209,7 +209,7 @@
           <mxGeometry x="790" y="1727" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-77" value="构造结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1924" width="124" height="49" as="geometry" />
+          <mxGeometry x="535" y="1944" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-78" value="YaraMergerResponse" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="336" y="2023" width="160" height="160" as="geometry" />
