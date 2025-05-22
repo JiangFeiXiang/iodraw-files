@@ -23,6 +23,9 @@
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-25" value="midgard" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="408.5" y="120" width="101" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-26" value="bartender" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="408.5" y="320" width="101" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
