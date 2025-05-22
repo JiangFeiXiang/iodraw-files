@@ -760,7 +760,7 @@
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-181" value="店铺正排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="723" y="2537" width="63" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-183" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1">
+        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-183" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="O9I9wQbVDgAq0Ng7cgbW-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="134" y="1692" />
