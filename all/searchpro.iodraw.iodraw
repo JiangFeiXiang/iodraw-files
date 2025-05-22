@@ -544,12 +544,12 @@
             <mxPoint x="215" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="O9I9wQbVDgAq0Ng7cgbW-118">
+        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;rounded=0;" edge="1" parent="1" source="O9I9wQbVDgAq0Ng7cgbW-118">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="364" y="2475" />
             </Array>
-            <mxPoint x="363.75" y="2520.75" as="targetPoint" />
+            <mxPoint x="364" y="2535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="O9I9wQbVDgAq0Ng7cgbW-118" target="O9I9wQbVDgAq0Ng7cgbW-121">
@@ -769,7 +769,7 @@
           <mxGeometry x="183" y="2537" width="63" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-178" value="店铺正排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="2547" width="63" height="49" as="geometry" />
+          <mxGeometry x="333" y="2537" width="63" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
