@@ -184,9 +184,6 @@
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-68" value="Spec打分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="1629" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O9I9wQbVDgAq0Ng7cgbW-69" target="O9I9wQbVDgAq0Ng7cgbW-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-69" value="店铺正排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="75" y="1621" width="124" height="49" as="geometry" />
         </mxCell>
