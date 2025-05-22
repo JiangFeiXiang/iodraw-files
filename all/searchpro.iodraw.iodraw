@@ -139,8 +139,8 @@
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-53" value="Rank阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="755" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-54" value="YaraMergerRequest" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="521" y="909" width="79" height="79" as="geometry" />
+        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-54" value="Request" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="558.5" y="909" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-55" value="解析请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="535" y="1038" width="124" height="49" as="geometry" />
