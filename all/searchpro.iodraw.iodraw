@@ -772,6 +772,9 @@
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-179" value="店铺正排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="456" y="2537" width="63" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-180" value="店铺正排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2539" width="63" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
