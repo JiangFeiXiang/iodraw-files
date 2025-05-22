@@ -140,7 +140,7 @@
           <mxGeometry x="586" y="755" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-54" value="YaraMergerRequest" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="521" y="836" width="152" height="152" as="geometry" />
+          <mxGeometry x="521" y="909" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-55" value="解析请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="535" y="1038" width="124" height="49" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="535" y="1923" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-78" value="Response" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="546" y="2040" width="102" height="102" as="geometry" />
+          <mxGeometry x="546" y="2011" width="102" height="102" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="O9I9wQbVDgAq0Ng7cgbW-54" target="O9I9wQbVDgAq0Ng7cgbW-55">
           <mxGeometry relative="1" as="geometry">
