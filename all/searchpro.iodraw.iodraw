@@ -203,7 +203,7 @@
           <mxGeometry x="238.5" y="1730" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-75" value="粗排截断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="559.5" y="1890" width="124" height="49" as="geometry" />
+          <mxGeometry x="535" y="1835" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-76" value="多轮粗排打分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="790" y="1727" width="156" height="49" as="geometry" />
@@ -773,7 +773,7 @@
             <mxPoint x="415" y="1735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.18;rounded=0;" edge="1" parent="1">
+        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="O9I9wQbVDgAq0Ng7cgbW-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="494" y="1700" />
