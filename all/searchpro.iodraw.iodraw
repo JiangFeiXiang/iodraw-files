@@ -188,7 +188,7 @@
           <mxGeometry x="75" y="1621" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-70" value="Sku正排" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="238" y="1626" width="117" height="49" as="geometry" />
+          <mxGeometry x="250" y="1624" width="117" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-71" value="相关性打分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="612" y="1629" width="140" height="49" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="422" y="1727" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-75" value="粗排截断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1826" width="124" height="49" as="geometry" />
+          <mxGeometry x="559.5" y="1890" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-76" value="多轮粗排打分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="790" y="1727" width="156" height="49" as="geometry" />
@@ -399,13 +399,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="143" y="1801" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O9I9wQbVDgAq0Ng7cgbW-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.09;entryY=-0.01;rounded=0;" edge="1" parent="1" source="O9I9wQbVDgAq0Ng7cgbW-70" target="O9I9wQbVDgAq0Ng7cgbW-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="313" y="1801" />
             </Array>
           </mxGeometry>
         </mxCell>
