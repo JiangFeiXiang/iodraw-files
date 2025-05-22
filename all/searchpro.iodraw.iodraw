@@ -134,10 +134,10 @@
           <mxGeometry x="211" y="755" width="243" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-52" value="Recall阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469" y="758" width="100" height="60" as="geometry" />
+          <mxGeometry x="470" y="755" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9I9wQbVDgAq0Ng7cgbW-53" value="Rank阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="760" width="530" height="60" as="geometry" />
+          <mxGeometry x="586" y="755" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
