@@ -318,7 +318,7 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-17" value="物流域离&lt;div&gt;线IC标签未及&lt;div&gt;时更新&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-38" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-38" value="此商品无库存，&lt;div&gt;因此无法推广&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-39" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
