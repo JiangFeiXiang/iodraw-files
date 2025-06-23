@@ -318,7 +318,7 @@
           <mxGeometry x="920" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-38" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="900" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
