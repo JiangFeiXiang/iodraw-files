@@ -238,7 +238,7 @@
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-11" value="排查类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-12" value="知识库检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-12" value="外部依赖知识库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="1000.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-13" value="排查类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
