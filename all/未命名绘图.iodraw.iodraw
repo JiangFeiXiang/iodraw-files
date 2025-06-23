@@ -244,6 +244,9 @@
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-11" value="排查类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWy5NiBG_gVyC6GR4w5Y-12" target="CWy5NiBG_gVyC6GR4w5Y-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-12" value="外部依赖知识库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="1000.5" width="120" height="40" as="geometry" />
         </mxCell>
@@ -271,10 +274,8 @@
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-16" value="产品使用SOP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="919" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CWy5NiBG_gVyC6GR4w5Y-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1145" y="720" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CWy5NiBG_gVyC6GR4w5Y-17" target="CWy5NiBG_gVyC6GR4w5Y-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-17" value="常见问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="840" width="120" height="40" as="geometry" />
