@@ -325,13 +325,13 @@
           <mxGeometry x="1040" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-49" value="未找到无法推广原因请联系研发同学排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="1040" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-50" value="物流域离&lt;span style=&quot;background-color: initial;&quot;&gt;线IC标签未及&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时更新，导致商品无法推广，如需解决请参考文档：*****&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-51" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="1040" y="680" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-52" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="760" width="120" height="40" as="geometry" />
