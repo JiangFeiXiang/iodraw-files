@@ -255,8 +255,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-10" value="LLM识别问题意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-10" value="咨询类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="959" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-11" value="咨询类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
