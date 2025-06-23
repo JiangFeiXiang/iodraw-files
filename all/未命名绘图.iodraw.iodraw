@@ -242,6 +242,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bifHIdAHlhU52drh1-CA-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-2" target="bifHIdAHlhU52drh1-CA-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-2" value="&lt;span style=&quot;background-color: initial;&quot;&gt;非联盟品&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="80" height="80" as="geometry" />
         </mxCell>
@@ -320,9 +323,6 @@
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-6" value="风控IC标&lt;div&gt;签禁投&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-7" value="是否&lt;div&gt;物流可达&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-16" target="bifHIdAHlhU52drh1-CA-17">
           <mxGeometry relative="1" as="geometry" />
