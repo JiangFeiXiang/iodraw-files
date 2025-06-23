@@ -265,6 +265,9 @@
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-15" value="价格不准确工作流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="1240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CWy5NiBG_gVyC6GR4w5Y-16" target="CWy5NiBG_gVyC6GR4w5Y-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-16" value="产品使用SOP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="919" width="120" height="40" as="geometry" />
         </mxCell>
