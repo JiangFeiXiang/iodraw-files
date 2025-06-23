@@ -234,11 +234,11 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-2" value="商品是否&lt;div&gt;是联盟品&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-3" value="商品是否&lt;div&gt;是联盟品&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-3" value="商品是否&lt;div&gt;有库存&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-4" value="商品是否&lt;div&gt;是联盟品&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
