@@ -316,7 +316,7 @@
           <mxGeometry x="920" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-38" value="劣品禁投，&lt;span style=&quot;background-color: initial;&quot;&gt;导致商品无法推广，如需解决，请&lt;/span&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;ul style=&quot;margin: 0; padding-left: 23px&quot; class=&quot;ne-ul&quot;&gt;&lt;li data-lake-index-type=&quot;0&quot; id=&quot;uf1ac789c&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;按照劣品白皮书（&lt;/span&gt;&lt;span class=&quot;ne-yuque-inline&quot; id=&quot;NF5DL&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;劣商劣品常见问题&quot; href=&quot;https://aliyuque.antfin.com/ace.jww/fhdkh1/vurppr&quot;&gt;劣商劣品常见问题&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;ne-text&quot;&gt;），找对应管控类型的业务owner处理&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="1040" y="400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-39" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="320" width="120" height="40" as="geometry" />
