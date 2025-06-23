@@ -393,7 +393,7 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-78" value="输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-79" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-79" value="运营、网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="490" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
