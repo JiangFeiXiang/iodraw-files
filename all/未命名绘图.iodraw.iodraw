@@ -330,8 +330,8 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-43" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-46" value="风控IC标&lt;div&gt;签禁投&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="760" width="80" height="80" as="geometry" />
+        <mxCell id="bifHIdAHlhU52drh1-CA-47" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
