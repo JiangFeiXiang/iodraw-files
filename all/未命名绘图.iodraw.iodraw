@@ -373,7 +373,7 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-39" value="此商品被风控，因此无法推广，如需解决，请&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;联系风控接口人&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-decoration-line: underline;&quot; class=&quot;ne-text&quot;&gt;桃原&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;，咨询解除风控方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-48" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-48" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-49" value="未找到无法推广原因请联系研发同学排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
