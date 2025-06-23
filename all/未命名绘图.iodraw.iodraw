@@ -242,9 +242,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-2" target="bifHIdAHlhU52drh1-CA-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-2" value="&lt;span style=&quot;background-color: initial;&quot;&gt;非联盟品&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="80" height="80" as="geometry" />
         </mxCell>
@@ -270,8 +267,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-4" target="bifHIdAHlhU52drh1-CA-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bifHIdAHlhU52drh1-CA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-4" value="&lt;div&gt;物流不可达&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="80" height="80" as="geometry" />
@@ -304,9 +303,6 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-7" value="是否&lt;div&gt;物流可达&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-10" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="600" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-16" target="bifHIdAHlhU52drh1-CA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -329,12 +325,6 @@
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-39" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-43" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="680" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-47" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-48" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="240" width="120" height="40" as="geometry" />
