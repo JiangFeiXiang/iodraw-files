@@ -267,10 +267,10 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-4" value="是否&lt;div&gt;物流可达&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-5" value="被风控离&lt;div&gt;线表禁投&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-5" value="风控离&lt;div&gt;线表禁投&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-6" value="被风控IC标&lt;div&gt;签禁投放&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-6" value="风控IC标&lt;div&gt;签禁投放&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-7" value="是否&lt;div&gt;物流可达&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -279,7 +279,7 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-10" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-16" value="被lie" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bifHIdAHlhU52drh1-CA-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
