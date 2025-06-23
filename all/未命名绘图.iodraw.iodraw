@@ -304,7 +304,7 @@
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-39" value="HSF调用第三方接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1520" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-40" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-40" value="LLM分析排查结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
