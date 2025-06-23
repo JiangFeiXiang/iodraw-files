@@ -383,13 +383,13 @@
           <mxGeometry x="1040" y="570" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-51" value="此商品被风控，因此无法推广，如需解决，请&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;联系风控接口人 &lt;/span&gt;&lt;span style=&quot;background-color: initial; text-decoration-line: underline;&quot; class=&quot;ne-text&quot;&gt;桃原&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;，咨询解除风控方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="670" width="160" height="60" as="geometry" />
+          <mxGeometry x="1040" y="660" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-52" value="此商品物流不可达，因此无法推广" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="760" width="160" height="40" as="geometry" />
+          <mxGeometry x="1040" y="750" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bifHIdAHlhU52drh1-CA-67" value="此商品无库存，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="840" width="160" height="40" as="geometry" />
+        <mxCell id="bifHIdAHlhU52drh1-CA-67" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="820" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
