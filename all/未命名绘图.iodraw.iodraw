@@ -388,7 +388,10 @@
           <mxGeometry x="1040" y="660" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-67" value="此商品非联盟品，因此无法推广" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="820" width="160" height="40" as="geometry" />
+          <mxGeometry x="1040" y="730" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bifHIdAHlhU52drh1-CA-78" value="用户输入：推广链接、投放国家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
