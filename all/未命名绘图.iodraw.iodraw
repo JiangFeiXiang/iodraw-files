@@ -224,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uA1qaKv4zhUunVGiWrOj" name="第 2 页">
-    <mxGraphModel dx="4809" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-1" value="输入：推广链接、投放国家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-2" target="bifHIdAHlhU52drh1-CA-3">
           <mxGeometry relative="1" as="geometry" />
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-2" value="&lt;span style=&quot;background-color: initial;&quot;&gt;非联盟品&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-3" target="bifHIdAHlhU52drh1-CA-4">
           <mxGeometry relative="1" as="geometry" />
@@ -270,7 +270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;无库存&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-4" target="bifHIdAHlhU52drh1-CA-5">
           <mxGeometry relative="1" as="geometry" />
@@ -289,7 +289,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-4" value="&lt;div&gt;物流不可达&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-5" target="bifHIdAHlhU52drh1-CA-6">
           <mxGeometry relative="1" as="geometry" />
@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-5" value="风控离&lt;div&gt;线表禁投&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="670" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-6" target="bifHIdAHlhU52drh1-CA-16">
           <mxGeometry relative="1" as="geometry" />
@@ -327,7 +327,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-6" value="风控IC标&lt;div&gt;签禁投&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="790" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-16" target="bifHIdAHlhU52drh1-CA-17">
           <mxGeometry relative="1" as="geometry" />
@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-16" value="劣品禁投" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="910" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-17" target="bifHIdAHlhU52drh1-CA-49">
           <mxGeometry relative="1" as="geometry" />
@@ -365,62 +365,62 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-17" value="物流域离&lt;div&gt;线IC标签未及&lt;div&gt;时更新&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="1030" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-38" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-38" value="物流域离&lt;span style=&quot;background-color: initial;&quot;&gt;线IC标签未及&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时更新，导致商品无法推广，如需解决请参考文档：*****&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="410" width="160" height="60" as="geometry" />
+          <mxGeometry x="1150" y="410" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-39" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-39" value="此商品被风控，因此无法推广，如需解决，请&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;联系风控接口人&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-decoration-line: underline;&quot; class=&quot;ne-text&quot;&gt;桃原&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;，咨询解除风控方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="320" width="160" height="60" as="geometry" />
+          <mxGeometry x="1150" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-48" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-48" value="此商品无库存，因此无法推广" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="250" width="160" height="40" as="geometry" />
+          <mxGeometry x="1150" y="250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-49" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-49" value="未找到无法推广原因请联系研发同学排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="500" width="160" height="40" as="geometry" />
+          <mxGeometry x="1150" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-51" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;劣品禁投，&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;导致商品无法推广，如需解决，请&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;ne-text&quot;&gt;按照&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;ne-yuque-inline&quot; id=&quot;NF5DL&quot;&gt;&lt;a style=&quot;forced-color-adjust: none;&quot; target=&quot;_blank&quot; title=&quot;劣商劣品常见问题&quot; href=&quot;https://aliyuque.antfin.com/ace.jww/fhdkh1/vurppr&quot;&gt;劣商劣品常见问题&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;ne-text&quot;&gt;，找对应管控类型的业务owner处理&lt;/span&gt;" link="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;劣品禁投，&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;导致商品无法推广，如需解决，请&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;ne-text&quot;&gt;按照&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;ne-yuque-inline&quot; id=&quot;NF5DL&quot;&gt;&lt;a style=&quot;forced-color-adjust: none;&quot; target=&quot;_blank&quot; title=&quot;劣商劣品常见问题&quot; href=&quot;https://aliyuque.antfin.com/ace.jww/fhdkh1/vurppr&quot;&gt;劣商劣品常见问题&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;ne-text&quot;&gt;，找对应管控类型的业务owner处理&lt;/span&gt;" id="bifHIdAHlhU52drh1-CA-51">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1040" y="570" width="160" height="60" as="geometry" />
+            <mxGeometry x="1150" y="570" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="bifHIdAHlhU52drh1-CA-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-52" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-52" value="此商品物流不可达，因此无法推广" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="660" width="160" height="40" as="geometry" />
+          <mxGeometry x="1150" y="660" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-67" target="bifHIdAHlhU52drh1-CA-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-67" value="此商品非联盟品，因此无法推广" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="730" width="160" height="40" as="geometry" />
+          <mxGeometry x="1150" y="730" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-78" value="回复输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="1390" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-79" value="运营、网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="490" width="30" height="60" as="geometry" />
+          <mxGeometry x="80" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="519.5" as="sourcePoint" />
-            <mxPoint x="40" y="519.5" as="targetPoint" />
+            <mxPoint x="110" y="519.5" as="sourcePoint" />
+            <mxPoint x="150" y="519.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
