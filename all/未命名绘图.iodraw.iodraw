@@ -306,11 +306,19 @@
         <mxCell id="bifHIdAHlhU52drh1-CA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bifHIdAHlhU52drh1-CA-16" target="bifHIdAHlhU52drh1-CA-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bifHIdAHlhU52drh1-CA-37" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bifHIdAHlhU52drh1-CA-21">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-16" value="劣品禁投" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-17" value="物流域离&lt;div&gt;线IC标签未及&lt;div&gt;时更新&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bifHIdAHlhU52drh1-CA-38" value="此商品非联盟品，因此无法推广或者转链" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
