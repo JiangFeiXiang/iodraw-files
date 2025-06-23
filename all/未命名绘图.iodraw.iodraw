@@ -368,7 +368,7 @@
           <mxGeometry x="920" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-38" value="劣品禁投，&lt;span style=&quot;background-color: initial;&quot;&gt;导致商品无法推广，如需解决，请&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;按照&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-yuque-inline&quot; id=&quot;NF5DL&quot;&gt;&lt;a target=&quot;_blank&quot; title=&quot;劣商劣品常见问题&quot; href=&quot;https://aliyuque.antfin.com/ace.jww/fhdkh1/vurppr&quot;&gt;劣商劣品常见问题&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;，找对应管控类型的业务owner处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="390" width="160" height="60" as="geometry" />
+          <mxGeometry x="1040" y="410" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bifHIdAHlhU52drh1-CA-39" value="此商品被风控，因此无法推广，如需解决，请&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;联系风控接口人&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-decoration-line: underline;&quot; class=&quot;ne-text&quot;&gt;桃原&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;，咨询解除风控方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="310" width="160" height="60" as="geometry" />
