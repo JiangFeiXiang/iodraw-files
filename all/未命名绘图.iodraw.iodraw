@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sbVcEaSNKvJj4GzQrAfF-50" value="运营、网红提问&#xa;(工单 / 钉钉群)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1027" width="220" height="66" as="geometry" />
+          <mxGeometry x="90" y="1040" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sbVcEaSNKvJj4GzQrAfF-51" value="LLM识别问题意图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="1036" width="221" height="49" as="geometry" />
