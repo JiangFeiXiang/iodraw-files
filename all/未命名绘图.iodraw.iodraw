@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-10" value="咨询类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="959" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="919" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-11" value="排查类问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="1160" width="120" height="40" as="geometry" />
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-16" value="知识库检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="919" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWy5NiBG_gVyC6GR4w5Y-17" value="知识库检索" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="840" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
