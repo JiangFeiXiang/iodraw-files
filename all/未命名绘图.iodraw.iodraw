@@ -702,7 +702,7 @@
           <mxGeometry x="530" y="430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-18" value="知识库查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="460" width="70" height="30" as="geometry" />
+          <mxGeometry x="390" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-19" value="知识库查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="460" width="70" height="30" as="geometry" />
@@ -714,7 +714,7 @@
           <mxGeometry x="670" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-22" value="知识库查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="70" height="30" as="geometry" />
+          <mxGeometry x="760" y="460" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
