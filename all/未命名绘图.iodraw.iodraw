@@ -605,7 +605,7 @@
             <mxPoint x="760" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-12" value="运营评估" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fkW3nxKSXSyvo5TkJswk-10">
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-12" value="评估" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fkW3nxKSXSyvo5TkJswk-10">
           <mxGeometry x="-0.1802" y="-1" relative="1" as="geometry">
             <mxPoint x="117" y="-71" as="offset" />
           </mxGeometry>
@@ -648,7 +648,10 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkW3nxKSXSyvo5TkJswk-23" target="fkW3nxKSXSyvo5TkJswk-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-23" value="网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkW3nxKSXSyvo5TkJswk-23" target="fkW3nxKSXSyvo5TkJswk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-23" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="785" y="180" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
