@@ -616,7 +616,7 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-11" value="是否可直接利用Agent回复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
