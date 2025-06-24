@@ -636,10 +636,8 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-14" value="直接回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkW3nxKSXSyvo5TkJswk-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="620" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkW3nxKSXSyvo5TkJswk-15" target="fkW3nxKSXSyvo5TkJswk-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-15" value="网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="30" height="60" as="geometry" />
@@ -664,6 +662,9 @@
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-26" value="是否有专业&lt;div&gt;性错误&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-29" value="网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="660" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
