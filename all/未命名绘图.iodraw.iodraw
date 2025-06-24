@@ -713,7 +713,7 @@
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-21" value="Prompt工程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQWbqK1sLg0QMeXgHsQa-22" value="知识库查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQWbqK1sLg0QMeXgHsQa-22" value="回复生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="460" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
