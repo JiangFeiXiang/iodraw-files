@@ -670,7 +670,7 @@
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-5" value="回复策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
           <mxGeometry x="255.35861500412204" y="22.164948453608247" width="60.799670239076676" height="25.25773195876289" as="geometry" />
         </mxCell>
-        <mxCell id="GHo-kj-8NuhOAKBiCxGa-6" value="回复策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
+        <mxCell id="GHo-kj-8NuhOAKBiCxGa-6" value="Prompt工程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
           <mxGeometry x="364.79802143446" y="22.164948453608247" width="60.799670239076676" height="25.25773195876289" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-7" value="邮件生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
