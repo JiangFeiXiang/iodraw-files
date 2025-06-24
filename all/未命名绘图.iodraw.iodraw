@@ -614,7 +614,7 @@
           <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-11" value="是否可直&lt;div&gt;接&lt;span style=&quot;background-color: initial;&quot;&gt;利用Agent回复&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="300" width="80" height="80" as="geometry" />
@@ -625,14 +625,8 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-14" value="直接回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkW3nxKSXSyvo5TkJswk-15" target="fkW3nxKSXSyvo5TkJswk-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-15" value="网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-16" value="网红" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="660" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
