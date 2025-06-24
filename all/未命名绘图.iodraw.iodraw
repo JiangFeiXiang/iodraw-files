@@ -675,8 +675,11 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-40" value="运营在线评价测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-41" value="运营在线评价测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-41" value="修改反馈内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-42" value="修改反馈内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="410" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
