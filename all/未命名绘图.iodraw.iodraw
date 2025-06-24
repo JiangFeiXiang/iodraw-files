@@ -623,7 +623,7 @@
           <mxGeometry x="150" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-14" value="咨询回复Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="920" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
