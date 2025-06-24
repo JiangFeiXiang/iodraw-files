@@ -707,7 +707,7 @@
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-19" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQWbqK1sLg0QMeXgHsQa-20" value="知识库查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OQWbqK1sLg0QMeXgHsQa-20" value="回复策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-21" value="知识库查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
