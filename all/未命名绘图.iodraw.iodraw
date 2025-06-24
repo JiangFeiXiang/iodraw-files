@@ -591,7 +591,7 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-1" value="工单后台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-2" value="Alibaba翻译&#xa;（机器翻译）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
