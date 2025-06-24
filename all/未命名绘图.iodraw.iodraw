@@ -573,9 +573,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2K0sKwkIkCzenDAMjEm4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xs_ZuntT76YW_u8tHmAF-1" target="2K0sKwkIkCzenDAMjEm4-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xs_ZuntT76YW_u8tHmAF-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="30" height="60" as="geometry" />
         </mxCell>
@@ -585,8 +582,8 @@
             <mxPoint x="280" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2K0sKwkIkCzenDAMjEm4-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="460" width="30" height="60" as="geometry" />
+        <mxCell id="vNY57mOjjJTAVhEokg9Z-1" value="运营、网红提问&#xa;(工单 / 钉钉群)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1040.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
