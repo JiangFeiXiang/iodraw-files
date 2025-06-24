@@ -676,10 +676,10 @@
           <mxGeometry x="765" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-41" value="修改反馈内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="400" width="110" height="30" as="geometry" />
+          <mxGeometry x="765" y="335" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-42" value="回复质量反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="450" width="110" height="30" as="geometry" />
+          <mxGeometry x="765" y="370" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
