@@ -649,25 +649,25 @@
           <mxGeometry x="1145" y="250" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-1" value="AgentEngine" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="265" y="420" width="590" height="100" as="geometry" />
+          <mxGeometry x="265" y="420" width="535" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-2" value="WorkFlow:邮件回复" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;dashed=1;dashPattern=8 8;" vertex="1" parent="OQWbqK1sLg0QMeXgHsQa-1">
-          <mxGeometry x="20.915086562242376" y="23.711340206185564" width="555.9521846661171" height="61.34020618556701" as="geometry" />
+          <mxGeometry x="18.96537510305029" y="21.34020618556701" width="504.126133553174" height="55.206185567010316" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-3" value="知识库查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OQWbqK1sLg0QMeXgHsQa-2">
-          <mxGeometry x="28.21104699093157" y="22.164948453608247" width="69.06842539159109" height="25.25773195876289" as="geometry" />
+          <mxGeometry x="25.581203627370154" y="19.948453608247423" width="62.62984336356141" height="22.731958762886602" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-4" value="意图识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OQWbqK1sLg0QMeXgHsQa-2">
-          <mxGeometry x="145.919208573784" y="22.164948453608247" width="60.799670239076676" height="25.25773195876289" as="geometry" />
+          <mxGeometry x="132.31657048639735" y="19.948453608247423" width="55.13190436933224" height="22.731958762886602" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-5" value="回复策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OQWbqK1sLg0QMeXgHsQa-2">
-          <mxGeometry x="255.35861500412204" y="22.164948453608247" width="60.799670239076676" height="25.25773195876289" as="geometry" />
+          <mxGeometry x="231.55399835119542" y="19.948453608247423" width="55.13190436933224" height="22.731958762886602" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-6" value="Prompt工程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OQWbqK1sLg0QMeXgHsQa-2">
-          <mxGeometry x="359.08" y="22.16" width="75.2" height="25.26" as="geometry" />
+          <mxGeometry x="325.6064406779661" y="19.944000000000003" width="68.18983050847457" height="22.734" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-7" value="邮件生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="OQWbqK1sLg0QMeXgHsQa-2">
-          <mxGeometry x="474.23742786479806" y="22.164948453608247" width="60.799670239076676" height="25.25773195876289" as="geometry" />
+          <mxGeometry x="430.02885408079146" y="19.948453608247423" width="55.13190436933224" height="22.731958762886602" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="OQWbqK1sLg0QMeXgHsQa-2" source="OQWbqK1sLg0QMeXgHsQa-3" target="OQWbqK1sLg0QMeXgHsQa-4">
           <mxGeometry relative="1" as="geometry">
