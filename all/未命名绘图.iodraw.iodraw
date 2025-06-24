@@ -597,6 +597,9 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-2" value="Alibaba翻译&#xa;（机器翻译）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
