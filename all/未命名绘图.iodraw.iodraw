@@ -656,25 +656,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-1" value="AgentEngine" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="840" height="160" as="geometry" />
+          <mxGeometry x="20" y="20" width="540" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-2" value="WorkFlow:邮件回复" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-1">
-          <mxGeometry x="29.777411376751854" y="37.93814432989691" width="791.525144270404" height="98.14432989690721" as="geometry" />
+          <mxGeometry x="19.14262159934048" y="23.711340206185564" width="508.8375927452597" height="61.34020618556701" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-3" value="知识库查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
-          <mxGeometry x="40.16488046166529" y="35.46391752577319" width="98.33470733718055" height="40.41237113402062" as="geometry" />
+          <mxGeometry x="25.82028029678483" y="22.164948453608247" width="63.2151690024732" height="25.25773195876289" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-4" value="意图识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
-          <mxGeometry x="207.74938169826876" y="35.46391752577319" width="86.56224237427865" height="40.41237113402062" as="geometry" />
+          <mxGeometry x="133.55317394888706" y="22.164948453608247" width="55.64715581203628" height="25.25773195876289" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-5" value="状态追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
-          <mxGeometry x="363.56141797197034" y="35.46391752577319" width="86.56224237427865" height="40.41237113402062" as="geometry" />
+          <mxGeometry x="233.71805441055238" y="22.164948453608247" width="55.64715581203628" height="25.25773195876289" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-6" value="回复策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
-          <mxGeometry x="519.3734542456718" y="35.46391752577319" width="86.56224237427865" height="40.41237113402062" as="geometry" />
+          <mxGeometry x="333.8829348722176" y="22.164948453608247" width="55.64715581203628" height="25.25773195876289" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-7" value="邮件生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="GHo-kj-8NuhOAKBiCxGa-2">
-          <mxGeometry x="675.1854905193735" y="35.46391752577319" width="86.56224237427865" height="40.41237113402062" as="geometry" />
+          <mxGeometry x="434.04781533388297" y="22.164948453608247" width="55.64715581203628" height="25.25773195876289" as="geometry" />
         </mxCell>
         <mxCell id="GHo-kj-8NuhOAKBiCxGa-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="GHo-kj-8NuhOAKBiCxGa-2" source="GHo-kj-8NuhOAKBiCxGa-3" target="GHo-kj-8NuhOAKBiCxGa-4">
           <mxGeometry relative="1" as="geometry">
