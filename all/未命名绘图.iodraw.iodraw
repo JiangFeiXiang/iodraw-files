@@ -334,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-47" value="Prompt输出排查结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="919" width="120" height="40" as="geometry" />
+          <mxGeometry x="1550" y="919" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CWy5NiBG_gVyC6GR4w5Y-49" value="回复结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1040" width="120" height="40" as="geometry" />
