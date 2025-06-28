@@ -915,6 +915,17 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1000" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-23" value="3 判断物料类型(爆品或非商品)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2256" y="176" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="210" />
+              <mxPoint x="745" y="240" />
+            </Array>
+            <mxPoint x="693.5" y="210" as="sourcePoint" />
+            <mxPoint x="693.5" y="240" as="targetPoint" />
+            <mxPoint x="176" y="-159" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
