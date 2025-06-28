@@ -788,9 +788,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="frNa0myaNfgip2-6yU1h-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="10" y="280" width="150" height="1052" as="geometry" />
-        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-3" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="220" y="20" width="150" height="1052" as="geometry" />
         </mxCell>
@@ -803,11 +800,12 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-6" value="global_traffic_advertisement" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1238" y="20" width="240" height="1052" as="geometry" />
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-7" value="1 点击转链按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-2" target="frNa0myaNfgip2-6yU1h-3">
+        <mxCell id="frNa0myaNfgip2-6yU1h-7" value="1 点击转链按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="131" />
             </Array>
+            <mxPoint x="94.5" y="131" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-8" value="2 发送请求至/generatePromotionLink.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3" target="frNa0myaNfgip2-6yU1h-4">
@@ -893,11 +891,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-19" value="13 返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3" target="frNa0myaNfgip2-6yU1h-2">
+        <mxCell id="frNa0myaNfgip2-6yU1h-19" value="13 返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="967" />
             </Array>
+            <mxPoint x="94.5" y="967" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
