@@ -816,15 +816,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-10" value="4 根据站长类型生成链接类型(大部分为CPS_NORMAI)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-4">
-          <mxGeometry x="-0.2256" y="107" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="735" y="329" />
-              <mxPoint x="735" y="359" />
-            </Array>
-            <mxPoint x="106" y="88" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-11" value="5 请求global-traffic-holmes-s生成短链接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -928,14 +919,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-29" value="3、域名白名单校验" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.4545" y="119" relative="1" as="geometry">
+          <mxGeometry x="-0.2273" y="120" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="339" />
               <mxPoint x="745" y="369" />
             </Array>
             <mxPoint x="694" y="339" as="sourcePoint" />
             <mxPoint x="694" y="369" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="-105" y="-119" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -947,17 +938,6 @@
               <mxPoint x="740" y="250" />
               <mxPoint x="740" y="290" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-31" value="4、商品风控过滤" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.2273" y="71" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="745" y="339" />
-              <mxPoint x="745" y="369" />
-            </Array>
-            <mxPoint x="694" y="339" as="sourcePoint" />
-            <mxPoint x="694" y="369" as="targetPoint" />
-            <mxPoint x="-56" y="-69" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
