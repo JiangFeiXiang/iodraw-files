@@ -850,10 +850,10 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-19" value="15、返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry x="-0.0022" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="790" />
+              <mxPoint x="220.5" y="800" />
             </Array>
-            <mxPoint x="304.5" y="790" as="sourcePoint" />
-            <mxPoint x="90" y="800" as="targetPoint" />
+            <mxPoint x="310" y="800" as="sourcePoint" />
+            <mxPoint x="95.5" y="810" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -861,7 +861,7 @@
           <mxGeometry x="60" y="70" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-22" value="推广者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="790" width="60" height="100" as="geometry" />
+          <mxGeometry x="60" y="800" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
