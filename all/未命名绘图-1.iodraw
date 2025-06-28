@@ -817,11 +817,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-9" value="3 判断物料类型(爆品或非商品)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.7519" y="33" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="243" />
               <mxPoint x="735" y="273" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-10" value="4 根据站长类型生成链接类型(大部分为CPS_NORMAI)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-4">
