@@ -972,10 +972,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-39" value="&lt;pre style=&quot;forced-color-adjust: none; color: rgb(8, 8, 8); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 98, 122);&quot;&gt;generateShortLink接口，3次重试&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="400" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-40" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.665;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-39" target="frNa0myaNfgip2-6yU1h-39">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="770" y="400" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
