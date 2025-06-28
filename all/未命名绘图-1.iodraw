@@ -915,8 +915,8 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1000" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-23" value="3 判断物料类型(爆品或非商品)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0752" y="-1" relative="1" as="geometry">
+        <mxCell id="frNa0myaNfgip2-6yU1h-23" value="3 域名校验" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0752" y="29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="731.5" y="200" />
               <mxPoint x="731.5" y="230" />
