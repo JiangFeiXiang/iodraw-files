@@ -784,7 +784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZpOcA5zT4bllZTj3YzK1" name="第 6 页">
-    <mxGraphModel dx="1758" dy="5777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -904,18 +904,7 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1000" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-24" value="11 返回站长的生成广告链接" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" y="615" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="741" y="210" />
-              <mxPoint x="741" y="240" />
-            </Array>
-            <mxPoint x="690" y="210" as="sourcePoint" />
-            <mxPoint x="690" y="240" as="targetPoint" />
-            <mxPoint x="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-25" value="11 返回站长的生成广告链接" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-25" value="" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.2273" y="615" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="835" />
