@@ -824,10 +824,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-15" value="9 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-5" target="frNa0myaNfgip2-6yU1h-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1624" y="139" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1233" y="729" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-16" value="10" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-5" target="frNa0myaNfgip2-6yU1h-4">
