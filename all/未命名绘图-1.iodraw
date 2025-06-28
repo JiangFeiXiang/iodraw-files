@@ -816,7 +816,7 @@
             <mxPoint x="1090" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-95">
           <mxGeometry x="-0.0138" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="670" />
@@ -1064,10 +1064,10 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-94" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1167.5" y="710" />
+              <mxPoint x="1164.5" y="720" />
             </Array>
-            <mxPoint x="1358" y="710" as="sourcePoint" />
-            <mxPoint x="1100" y="710" as="targetPoint" />
+            <mxPoint x="1355" y="720" as="sourcePoint" />
+            <mxPoint x="1097" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-96" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-95">
