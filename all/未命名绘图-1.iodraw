@@ -974,6 +974,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-43" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="470" as="sourcePoint" />
+            <mxPoint x="1090" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="470" />
+              <mxPoint x="1140" y="470" />
+              <mxPoint x="1140" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-44" value="3、域名白名单校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-43">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
