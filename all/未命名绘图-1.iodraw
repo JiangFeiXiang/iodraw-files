@@ -996,7 +996,7 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-55" value="publisher_console" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.327;exitY=-0.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="689.2399999999998" y="947.76" as="sourcePoint" />
             <mxPoint x="690" y="150" as="targetPoint" />
@@ -1034,6 +1034,9 @@
             <mxPoint x="40" y="240" as="sourcePoint" />
             <mxPoint x="90" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
