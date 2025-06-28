@@ -806,7 +806,7 @@
               <mxPoint x="510" y="257" />
             </Array>
             <mxPoint x="304.5" y="257" as="sourcePoint" />
-            <mxPoint x="693.5" y="257" as="targetPoint" />
+            <mxPoint x="680" y="260" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
