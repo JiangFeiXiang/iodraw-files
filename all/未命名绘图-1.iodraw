@@ -907,11 +907,11 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-24" value="11 返回站长的生成广告链接" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" y="615" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="731" y="210" />
-              <mxPoint x="731" y="240" />
+              <mxPoint x="741" y="210" />
+              <mxPoint x="741" y="240" />
             </Array>
-            <mxPoint x="680" y="210" as="sourcePoint" />
-            <mxPoint x="680" y="240" as="targetPoint" />
+            <mxPoint x="690" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="240" as="targetPoint" />
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
