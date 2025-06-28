@@ -926,7 +926,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-29" value="4 根据站长类型生成链接类型(大部分为CPS_NORMAI)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-29" value="3、域名白名单校验" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.2273" y="127" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="339" />
