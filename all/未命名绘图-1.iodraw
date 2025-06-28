@@ -957,16 +957,16 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="310" as="sourcePoint" />
-            <mxPoint x="700" y="350" as="targetPoint" />
+            <mxPoint x="690" y="350" as="sourcePoint" />
+            <mxPoint x="690" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="310" />
-              <mxPoint x="750" y="310" />
-              <mxPoint x="750" y="350" />
+              <mxPoint x="690" y="350" />
+              <mxPoint x="740" y="350" />
+              <mxPoint x="740" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-37" value="5、爆品属性判断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-36">
+        <mxCell id="frNa0myaNfgip2-6yU1h-37" value="6、组装请求体（&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ShortLinkReq&lt;/span&gt;）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-36">
           <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
