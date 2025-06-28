@@ -791,7 +791,7 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="1470" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-7" value="1 点击转链按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-7" value="1 点击转链按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="215" y="201" />
@@ -806,7 +806,7 @@
               <mxPoint x="510" y="257" />
             </Array>
             <mxPoint x="304.5" y="257" as="sourcePoint" />
-            <mxPoint x="680" y="260" as="targetPoint" />
+            <mxPoint x="693.5" y="257" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
