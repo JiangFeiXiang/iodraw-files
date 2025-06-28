@@ -939,6 +939,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="260" as="sourcePoint" />
+            <mxPoint x="700" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="260" />
+              <mxPoint x="750" y="260" />
+              <mxPoint x="750" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-35" value="4、商品风控过滤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-34">
+          <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
