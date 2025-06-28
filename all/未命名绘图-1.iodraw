@@ -816,7 +816,7 @@
             <mxPoint x="1090" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-95">
+        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry x="-0.0138" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="670" />
@@ -1078,6 +1078,9 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-95" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1355" y="670" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-99" value="9、推广者权限校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1170" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
