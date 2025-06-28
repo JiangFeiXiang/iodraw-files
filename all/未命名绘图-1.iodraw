@@ -853,7 +853,7 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-19" value="13 返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="205" y="967" />
+              <mxPoint x="205" y="720" />
             </Array>
             <mxPoint x="94.5" y="967" as="targetPoint" />
           </mxGeometry>
