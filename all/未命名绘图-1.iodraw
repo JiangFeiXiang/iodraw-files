@@ -823,14 +823,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-12" value="6 解析url包含商品信息&amp;店铺信息" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-5" target="frNa0myaNfgip2-6yU1h-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1138" y="471" />
-              <mxPoint x="1138" y="501" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-13" value="7 生成shortkey &amp; 拼接广告链接" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-5" target="frNa0myaNfgip2-6yU1h-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
