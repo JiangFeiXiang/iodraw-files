@@ -925,7 +925,7 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-37" value="6、组装请求体（&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ShortLinkReq&lt;/span&gt;）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-36">
           <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="52" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-39" value="&lt;pre style=&quot;forced-color-adjust: none; color: rgb(8, 8, 8); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 98, 122);&quot;&gt;generateShortLink接口，3次重试&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
