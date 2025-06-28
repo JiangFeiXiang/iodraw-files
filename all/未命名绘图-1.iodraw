@@ -1046,7 +1046,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-86" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="685" y="260" width="10" height="240" as="geometry" />
+          <mxGeometry x="685" y="260" width="10" height="490" as="geometry" />
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-90" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
