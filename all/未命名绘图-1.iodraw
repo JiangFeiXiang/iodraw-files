@@ -809,10 +809,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-8" value="2 发送请求至/generatePromotionLink.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3" target="frNa0myaNfgip2-6yU1h-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="187" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-9" value="3 判断物料类型(爆品或非商品)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-4">
