@@ -788,6 +788,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="frNa0myaNfgip2-6yU1h-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1470" height="940" as="geometry" />
+        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-7" value="1 点击转链按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -813,7 +816,7 @@
               <mxPoint x="906" y="485" />
             </Array>
             <mxPoint x="693.5" y="485" as="sourcePoint" />
-            <mxPoint x="1096.5" y="485" as="targetPoint" />
+            <mxPoint x="1090" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
@@ -1035,9 +1038,6 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-74" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1330" y="840" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1470" height="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
