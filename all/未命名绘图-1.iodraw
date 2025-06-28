@@ -816,13 +816,13 @@
             <mxPoint x="1090" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;startArrow=none;startFill=0;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry x="-0.0111" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="670" />
             </Array>
             <mxPoint x="1096.5" y="670" as="sourcePoint" />
-            <mxPoint x="1367.5" y="670" as="targetPoint" />
+            <mxPoint x="1350" y="670" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
