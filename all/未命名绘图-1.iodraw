@@ -858,6 +858,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-76" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-20" target="frNa0myaNfgip2-6yU1h-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="60" height="100" as="geometry" />
         </mxCell>
