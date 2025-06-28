@@ -992,16 +992,16 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-45" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100" y="480" as="sourcePoint" />
-            <mxPoint x="1100" y="520" as="targetPoint" />
+            <mxPoint x="1090" y="526" as="sourcePoint" />
+            <mxPoint x="1090" y="566" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1100" y="480" />
-              <mxPoint x="1150" y="480" />
-              <mxPoint x="1150" y="520" />
+              <mxPoint x="1090" y="526" />
+              <mxPoint x="1140" y="526" />
+              <mxPoint x="1140" y="566" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-46" value="9、推广者权限校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-45">
+        <mxCell id="frNa0myaNfgip2-6yU1h-46" value="10、解析url参数，构建DO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frNa0myaNfgip2-6yU1h-45">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="11" y="2" as="offset" />
           </mxGeometry>
