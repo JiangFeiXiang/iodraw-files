@@ -816,7 +816,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-11" value="7 请求global-traffic-holmes-s生成短链接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-5">
+        <mxCell id="frNa0myaNfgip2-6yU1h-11" value="7 请求global-traffic-holmes-s生成短链接口（）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="896" y="415" />
