@@ -838,6 +838,16 @@
             <mxPoint x="690" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="frNa0myaNfgip2-6yU1h-18" value="13 返回advLink广告链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="501" y="750" />
+              <mxPoint x="511" y="1115" />
+            </Array>
+            <mxPoint x="694.5" y="750" as="sourcePoint" />
+            <mxPoint x="305.5" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-19" value="14、返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry x="-0.0022" relative="1" as="geometry">
             <Array as="points">
