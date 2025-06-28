@@ -817,11 +817,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-10" value="4 根据站长类型生成链接类型(大部分为CPS_NORMAI)——塞入request" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2256" y="107" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="735" y="329" />
               <mxPoint x="735" y="359" />
             </Array>
+            <mxPoint x="106" y="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-11" value="5 请求global-traffic-holmes-s生成短链接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-5">
@@ -939,12 +940,12 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="250" as="sourcePoint" />
-            <mxPoint x="680" y="290" as="targetPoint" />
+            <mxPoint x="690" y="250" as="sourcePoint" />
+            <mxPoint x="690" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="250" />
-              <mxPoint x="730" y="250" />
-              <mxPoint x="730" y="290" />
+              <mxPoint x="690" y="250" />
+              <mxPoint x="740" y="250" />
+              <mxPoint x="740" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
