@@ -788,9 +788,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="frNa0myaNfgip2-6yU1h-4" value="publisher_console" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="605" y="20" width="158" height="1052" as="geometry" />
-        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-5" value="global_traffic_holmes_s" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="986" y="20" width="202" height="1052" as="geometry" />
         </mxCell>
@@ -806,20 +803,22 @@
             <mxPoint x="294.5" y="131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-8" value="2 发送请求至/generatePromotionLinkV2.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-4">
+        <mxCell id="frNa0myaNfgip2-6yU1h-8" value="2 发送请求至/generatePromotionLinkV2.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry x="0.0026" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="187" />
             </Array>
             <mxPoint x="294.5" y="187" as="sourcePoint" />
+            <mxPoint x="683.5" y="187" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-11" value="7 请求global-traffic-holmes-s生成短链接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-4" target="frNa0myaNfgip2-6yU1h-5">
+        <mxCell id="frNa0myaNfgip2-6yU1h-11" value="7 请求global-traffic-holmes-s生成短链接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" target="frNa0myaNfgip2-6yU1h-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="896" y="415" />
             </Array>
+            <mxPoint x="683.5" y="415" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-5" target="frNa0myaNfgip2-6yU1h-6">
@@ -997,7 +996,7 @@
         <mxCell id="frNa0myaNfgip2-6yU1h-53" value="前端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="235" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="140" as="sourcePoint" />
             <mxPoint x="290" y="90" as="targetPoint" />
