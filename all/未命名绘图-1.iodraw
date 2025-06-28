@@ -788,6 +788,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="frNa0myaNfgip2-6yU1h-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="1500" height="940" as="geometry" />
+        </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-7" value="1 点击转链按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1085,9 +1088,6 @@
         </mxCell>
         <mxCell id="frNa0myaNfgip2-6yU1h-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
