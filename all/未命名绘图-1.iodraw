@@ -808,7 +808,7 @@
             <mxPoint x="94.5" y="131" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-8" value="2 发送请求至/generatePromotionLink.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3" target="frNa0myaNfgip2-6yU1h-4">
+        <mxCell id="frNa0myaNfgip2-6yU1h-8" value="2 发送请求至/generatePromotionLinkV2.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="frNa0myaNfgip2-6yU1h-3" target="frNa0myaNfgip2-6yU1h-4">
           <mxGeometry x="0.0026" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="187" />
