@@ -816,7 +816,7 @@
             <mxPoint x="1090" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="frNa0myaNfgip2-6yU1h-15" value="11 存站长广告" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry x="-0.0111" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1230" y="670" />
