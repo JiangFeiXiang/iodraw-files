@@ -1279,7 +1279,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-24" value="8、环境参数构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-23">
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-24" value="8、环境参数构建，&lt;span style=&quot;color: rgb(0, 98, 122); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;buildWebEnvironment&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-23">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="21" y="2" as="offset" />
           </mxGeometry>
