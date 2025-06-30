@@ -1405,7 +1405,7 @@
             <mxPoint x="51" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-20" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="JasjteSDjCy3CBerbTJM-20" value="global_traffic_holmes_s_MQ_CONSUMER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1130" y="110" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-23">
