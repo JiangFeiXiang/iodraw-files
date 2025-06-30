@@ -1732,15 +1732,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-2" value="1 点击推广链接advLink" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="215" y="201" />
-            </Array>
-            <mxPoint x="120" y="200" as="sourcePoint" />
-            <mxPoint x="304.5" y="201" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-3" value="1、点击商品链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pjm-y8F0Gke_kxnzz4Sk-34">
           <mxGeometry x="0.0455" relative="1" as="geometry">
             <Array as="points">
@@ -2062,8 +2053,8 @@
             <mxPoint x="-4" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-61" value="19、返回落地页链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="420" y="910" as="geometry" />
+        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-61" value="18、返回“success”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="890" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-62" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
