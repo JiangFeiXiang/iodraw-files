@@ -1144,7 +1144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-8" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="60" height="100" as="geometry" />
+          <mxGeometry x="60" y="110" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-9" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="940" width="60" height="100" as="geometry" />
