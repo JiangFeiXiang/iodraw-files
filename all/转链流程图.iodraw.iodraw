@@ -1678,9 +1678,9 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-103" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_device_mapping&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1870" y="1040" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="JasjteSDjCy3CBerbTJM-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1900" y="850" as="sourcePoint" />
+            <mxPoint x="1900" y="890" as="sourcePoint" />
             <mxPoint x="1900" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
