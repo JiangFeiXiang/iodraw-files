@@ -1414,17 +1414,14 @@
             <mxPoint x="1200" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-24" target="JasjteSDjCy3CBerbTJM-23">
+        <mxCell id="JasjteSDjCy3CBerbTJM-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="JasjteSDjCy3CBerbTJM-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="830" as="sourcePoint" />
+            <mxPoint x="1200" y="930" as="sourcePoint" />
             <mxPoint x="1200" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1195" y="700" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-24" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="930" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-33" value="13、异步化存储点击信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1020" y="690" as="geometry" />
@@ -1577,6 +1574,9 @@
             <mxPoint x="1490" y="710" as="sourcePoint" />
             <mxPoint x="1490" y="150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-74" value="global_traffic_holmes_s_MQ_CONSUMER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="1040" width="235" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
