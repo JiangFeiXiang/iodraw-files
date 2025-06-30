@@ -1428,16 +1428,16 @@
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="550" as="sourcePoint" />
-            <mxPoint x="910" y="590" as="targetPoint" />
+            <mxPoint x="900" y="590" as="sourcePoint" />
+            <mxPoint x="900" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="550" />
-              <mxPoint x="960" y="550" />
-              <mxPoint x="960" y="590" />
+              <mxPoint x="900" y="590" />
+              <mxPoint x="950" y="590" />
+              <mxPoint x="950" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-6" value="10、数据校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-5">
+        <mxCell id="JasjteSDjCy3CBerbTJM-6" value="11、设置最终落地页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-5">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="-9" y="2" as="offset" />
           </mxGeometry>
