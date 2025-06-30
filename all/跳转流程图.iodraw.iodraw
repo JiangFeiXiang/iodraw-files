@@ -1816,7 +1816,7 @@
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-12" value="4、构建追踪请求参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Pjm-y8F0Gke_kxnzz4Sk-11">
           <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
