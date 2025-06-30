@@ -1199,12 +1199,12 @@
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="820" as="sourcePoint" />
-            <mxPoint x="580" y="860" as="targetPoint" />
+            <mxPoint x="570" y="820" as="sourcePoint" />
+            <mxPoint x="570" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="820" />
-              <mxPoint x="630" y="820" />
-              <mxPoint x="630" y="860" />
+              <mxPoint x="570" y="820" />
+              <mxPoint x="620" y="820" />
+              <mxPoint x="620" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1298,8 +1298,8 @@
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="840" as="sourcePoint" />
-            <mxPoint x="575" y="830" as="targetPoint" />
+            <mxPoint x="565" y="840" as="sourcePoint" />
+            <mxPoint x="565" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -1458,13 +1458,13 @@
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-43" value="18、302跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-42">
           <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
-            <mxPoint x="-8" y="-2" as="offset" />
+            <mxPoint x="-18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="890" as="sourcePoint" />
-            <mxPoint x="575" y="880" as="targetPoint" />
+            <mxPoint x="565" y="890" as="sourcePoint" />
+            <mxPoint x="565" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-45" value="19、返回落地页链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
