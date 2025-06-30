@@ -1773,10 +1773,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-7" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="110" width="60" height="100" as="geometry" />
+          <mxGeometry x="240" y="170" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-8" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="940" width="60" height="100" as="geometry" />
+          <mxGeometry x="240" y="1000" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1903,8 +1903,8 @@
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="240" as="sourcePoint" />
-            <mxPoint x="90" y="190" as="targetPoint" />
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-29" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -2055,18 +2055,6 @@
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-61" value="18、返回“success”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="430" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-62" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="109.5" y="940" />
-            </Array>
-            <mxPoint x="300" y="940" as="sourcePoint" />
-            <mxPoint x="90" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-63" value="20、返回落地页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="930" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-41" target="Pjm-y8F0Gke_kxnzz4Sk-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
