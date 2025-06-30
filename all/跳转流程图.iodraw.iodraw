@@ -1732,9 +1732,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="60" width="2010" height="1090" as="geometry" />
-        </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-2" value="1 点击推广链接advLink" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1889,12 +1886,6 @@
             <mxPoint x="81" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-36" target="Pjm-y8F0Gke_kxnzz4Sk-30">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="840" as="sourcePoint" />
-            <mxPoint x="300" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-23" value="global_traffic_holmes_f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="110" width="140" height="40" as="geometry" />
         </mxCell>
@@ -1928,12 +1919,6 @@
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-29" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1370" y="80" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-30" value="nginx" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="245" y="110" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-31" value="nginx" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1040" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-32" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1040" width="60" height="80" as="geometry" />
         </mxCell>
@@ -1946,15 +1931,6 @@
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="565" y="220" width="10" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-31" target="Pjm-y8F0Gke_kxnzz4Sk-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="304.5" y="1030" as="sourcePoint" />
-            <mxPoint x="304.5" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="10" height="740" as="geometry" />
-        </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pjm-y8F0Gke_kxnzz4Sk-42" target="Pjm-y8F0Gke_kxnzz4Sk-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="830" as="sourcePoint" />
@@ -1964,13 +1940,13 @@
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="885" y="330" width="10" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-39" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="Pjm-y8F0Gke_kxnzz4Sk-36">
+        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-39" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="374.5" y="920" />
             </Array>
             <mxPoint x="565" y="920" as="sourcePoint" />
-            <mxPoint x="320" y="920" as="targetPoint" />
+            <mxPoint x="310" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
