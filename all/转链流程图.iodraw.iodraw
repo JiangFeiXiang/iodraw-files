@@ -1592,6 +1592,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-80" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="780" />
+              <mxPoint x="1765" y="400" />
+              <mxPoint x="1707.5" y="370" />
+            </Array>
+            <mxPoint x="1710" y="780" as="sourcePoint" />
+            <mxPoint x="1210" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-81" value="2、插入action数据（CPI点击写入lindorm，否则mySQL）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1420" y="750" as="geometry" />
         </mxCell>
