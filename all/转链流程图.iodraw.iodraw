@@ -1410,6 +1410,22 @@
             <mxPoint x="91" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="500" as="sourcePoint" />
+            <mxPoint x="910" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="500" />
+              <mxPoint x="960" y="500" />
+              <mxPoint x="960" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-4" value="9、初始化追踪上下文，&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; color: rgb(8, 8, 8);&quot;&gt;initTrackingContext&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-3">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="91" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
