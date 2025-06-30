@@ -1294,7 +1294,7 @@
           <mxGeometry x="245" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="910" width="60" height="80" as="geometry" />
+          <mxGeometry x="1495" y="910" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1330,15 +1330,6 @@
             </Array>
             <mxPoint x="565" y="920" as="sourcePoint" />
             <mxPoint x="320" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1490" y="850" as="sourcePoint" />
-            <mxPoint x="1500" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1510" y="640" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
