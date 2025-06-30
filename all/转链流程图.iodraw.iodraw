@@ -1533,6 +1533,9 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-62" value="7、根据short_key、short_key获取广告信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-63" value="7、根据short_key、short_key获取广告信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1210" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
