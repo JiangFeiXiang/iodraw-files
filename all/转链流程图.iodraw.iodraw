@@ -1643,11 +1643,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-90" value="4、保存device设备信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-89">
-          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
-            <mxPoint x="36" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
