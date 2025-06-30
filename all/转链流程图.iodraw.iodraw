@@ -1580,22 +1580,22 @@
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="720" as="sourcePoint" />
-            <mxPoint x="910" y="760" as="targetPoint" />
+            <mxPoint x="1205" y="710" as="sourcePoint" />
+            <mxPoint x="1205" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="720" />
-              <mxPoint x="960" y="720" />
-              <mxPoint x="960" y="760" />
+              <mxPoint x="1205" y="710" />
+              <mxPoint x="1255" y="710" />
+              <mxPoint x="1255" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-76" value="14、填充返回值信息，包括cookiceMap" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-75">
+        <mxCell id="JasjteSDjCy3CBerbTJM-76" value="1、构建action实体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-75">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="51" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-77" value="13、异步化存储点击信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1030" y="700" as="geometry" />
+          <mxGeometry x="1325" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
