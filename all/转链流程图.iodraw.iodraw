@@ -1654,8 +1654,8 @@
             <mxPoint x="1205" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-93" value="2、插入action数据（CPI点击写入lindorm，否则mySQL）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1555" y="840" as="geometry" />
+        <mxCell id="JasjteSDjCy3CBerbTJM-93" value="2、插入buyer数据（CPI数据不写入）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1500" y="840" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-95" value="3、返回存储结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1400" y="880" as="geometry" />
