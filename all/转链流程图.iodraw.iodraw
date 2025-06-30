@@ -1099,7 +1099,7 @@
             <Array as="points">
               <mxPoint x="215" y="201" />
             </Array>
-            <mxPoint x="104.5" y="201" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="sourcePoint" />
             <mxPoint x="304.5" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1241,11 +1241,6 @@
               <mxPoint x="950" y="390" />
               <mxPoint x="950" y="430" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-22" value="7、根据short、bizCode获取广告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-21">
-          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
-            <mxPoint x="41" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
