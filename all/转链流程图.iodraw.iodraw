@@ -1100,7 +1100,7 @@
             <mxPoint x="304.5" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-2" value="2 发送请求至/generatePromotionLinkV2.htm" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-2" value="2 匹配*/e/* ：反向代理至/short_link.htm接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry x="0.0026" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="257" />
