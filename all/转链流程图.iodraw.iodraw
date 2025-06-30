@@ -1455,6 +1455,139 @@
             <mxPoint x="11" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="330" as="sourcePoint" />
+            <mxPoint x="1190" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="330" />
+              <mxPoint x="1240" y="330" />
+              <mxPoint x="1240" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-15" value="6、参数转换，input转dto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-14">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="380" as="sourcePoint" />
+            <mxPoint x="1190" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="380" />
+              <mxPoint x="1240" y="380" />
+              <mxPoint x="1240" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-17" value="7、根据short、bizCode获取广告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-16">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="41" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="430" as="sourcePoint" />
+            <mxPoint x="1190" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="430" />
+              <mxPoint x="1240" y="430" />
+              <mxPoint x="1240" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-19" value="8、环境参数构建，&lt;span style=&quot;color: rgb(0, 98, 122); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;buildWebEnvironment&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-18">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="81" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-20" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="920" as="sourcePoint" />
+            <mxPoint x="1180" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-24" target="JasjteSDjCy3CBerbTJM-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="820" as="sourcePoint" />
+            <mxPoint x="1180" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1175" y="320" width="10" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-24" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="830" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="480" as="sourcePoint" />
+            <mxPoint x="1190" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="480" />
+              <mxPoint x="1240" y="480" />
+              <mxPoint x="1240" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-26" value="9、初始化追踪上下文，&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; color: rgb(8, 8, 8);&quot;&gt;initTrackingContext&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-25">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="91" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="530" as="sourcePoint" />
+            <mxPoint x="1190" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="530" />
+              <mxPoint x="1240" y="530" />
+              <mxPoint x="1240" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-28" value="10、数据校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-27">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="-9" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="580" as="sourcePoint" />
+            <mxPoint x="1190" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="580" />
+              <mxPoint x="1240" y="580" />
+              <mxPoint x="1240" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-30" value="11、设置最终落地页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-29">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="630" as="sourcePoint" />
+            <mxPoint x="1190" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="630" />
+              <mxPoint x="1240" y="630" />
+              <mxPoint x="1240" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-32" value="12、反欺诈校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-31">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
