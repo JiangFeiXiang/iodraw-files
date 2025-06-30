@@ -1732,6 +1732,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ON-CRTv5OhS8BCcoV-oE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="1940" height="1110" as="geometry" />
+        </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-3" value="1、点击商品链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pjm-y8F0Gke_kxnzz4Sk-34">
           <mxGeometry x="0.0455" relative="1" as="geometry">
             <Array as="points">
@@ -2300,9 +2303,6 @@
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-105" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1895" y="920" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ON-CRTv5OhS8BCcoV-oE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="1940" height="1070" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#067d17;&quot;&gt;recom_item_click.htm&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" link="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#067d17;&quot;&gt;recom_item_click.htm&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" id="Pjm-y8F0Gke_kxnzz4Sk-106">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
