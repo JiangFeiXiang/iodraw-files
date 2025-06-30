@@ -1548,7 +1548,7 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-70" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_buyer_mapping&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1690" y="80" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-71" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JasjteSDjCy3CBerbTJM-71" value="&lt;div class=&quot;lake-content&quot;&gt;global_traffic_buyer_mapping&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1040" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-94">
@@ -1715,7 +1715,7 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-110" value="7、插入device数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1580" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-111" value="6、返回插入结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="JasjteSDjCy3CBerbTJM-111" value="8、返回插入结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1570" y="950" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-114" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-103" target="JasjteSDjCy3CBerbTJM-112">
