@@ -2113,7 +2113,7 @@
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-68" value="6、根据short_key、short_key获取广告信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-69" value="返回广告信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-69" value="7、返回广告信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="430" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-70" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
