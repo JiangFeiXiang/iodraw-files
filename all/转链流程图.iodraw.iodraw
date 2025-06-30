@@ -1329,7 +1329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="565" y="220" width="10" height="560" as="geometry" />
+          <mxGeometry x="565" y="220" width="10" height="610" as="geometry" />
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1477,7 +1477,7 @@
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-37" value="12、反欺诈校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-36">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="2" as="offset" />
+            <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
