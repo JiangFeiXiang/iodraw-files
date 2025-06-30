@@ -1386,6 +1386,9 @@
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-48" value="12、返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1020" y="700" as="geometry" />
         </mxCell>
+        <mxCell id="7X7F4HIYYH54Mfrhrq5K-1" value="global_traffic_holmes_f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
