@@ -1302,9 +1302,6 @@
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-30" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="820" y="110" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-31" value="publisher_console" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="830" y="830" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yj9tpLSqgcGYu2FZmiTE-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="930" as="sourcePoint" />
@@ -1353,7 +1350,7 @@
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="10" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yj9tpLSqgcGYu2FZmiTE-31" target="yj9tpLSqgcGYu2FZmiTE-44">
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="830" as="sourcePoint" />
             <mxPoint x="890" y="140" as="targetPoint" />
@@ -1387,7 +1384,7 @@
           <mxGeometry x="500" y="840" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7X7F4HIYYH54Mfrhrq5K-2" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="830" y="120" width="140" height="40" as="geometry" />
+          <mxGeometry x="820" y="840" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
