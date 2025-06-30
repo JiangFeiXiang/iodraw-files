@@ -1332,6 +1332,16 @@
             <mxPoint x="320" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-47" source="yj9tpLSqgcGYu2FZmiTE-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="850" as="sourcePoint" />
+            <mxPoint x="1500" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="900" />
+              <mxPoint x="1510" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1495" y="400" width="10" height="20" as="geometry" />
         </mxCell>
