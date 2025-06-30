@@ -1143,16 +1143,6 @@
             <mxPoint x="580" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-7" value="15、返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
-          <mxGeometry x="-0.0022" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220.5" y="1020" />
-            </Array>
-            <mxPoint x="310" y="1020" as="sourcePoint" />
-            <mxPoint x="95.5" y="1030" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-8" value="推广者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="70" width="60" height="100" as="geometry" />
         </mxCell>
@@ -1333,8 +1323,8 @@
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="1060" as="sourcePoint" />
-            <mxPoint x="305" y="1030" as="targetPoint" />
+            <mxPoint x="304.5" y="1040" as="sourcePoint" />
+            <mxPoint x="304.5" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -1511,7 +1501,7 @@
               <mxPoint x="109.5" y="940" />
             </Array>
             <mxPoint x="300" y="940" as="sourcePoint" />
-            <mxPoint x="45" y="940" as="targetPoint" />
+            <mxPoint x="90" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-47" value="19、返回落地页链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
