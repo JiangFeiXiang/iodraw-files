@@ -1263,7 +1263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-22" value="9、推广者权限校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-21">
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-22" value="7、根据short、bizCode获取广告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-21">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="11" y="2" as="offset" />
           </mxGeometry>
