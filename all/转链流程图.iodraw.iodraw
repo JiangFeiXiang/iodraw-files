@@ -1122,16 +1122,6 @@
             <mxPoint x="880" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-4" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" target="JasjteSDjCy3CBerbTJM-23">
-          <mxGeometry x="-0.1045" y="-70" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1028.5" y="700" />
-            </Array>
-            <mxPoint x="895" y="700" as="sourcePoint" />
-            <mxPoint x="1148.5" y="700" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-5" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
