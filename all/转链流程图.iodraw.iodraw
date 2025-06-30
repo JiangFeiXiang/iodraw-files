@@ -1678,20 +1678,17 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-103" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_device_mapping&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1870" y="1040" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-107">
+        <mxCell id="JasjteSDjCy3CBerbTJM-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1610" y="710" as="sourcePoint" />
+            <mxPoint x="1900" y="850" as="sourcePoint" />
             <mxPoint x="1900" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-106" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-103" target="JasjteSDjCy3CBerbTJM-107">
+        <mxCell id="JasjteSDjCy3CBerbTJM-106" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1900" y="910" as="sourcePoint" />
-            <mxPoint x="1900" y="420" as="targetPoint" />
+            <mxPoint x="1900" y="870" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-107" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1895" y="850" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-108" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" target="JasjteSDjCy3CBerbTJM-112">
           <mxGeometry x="-0.1045" y="-70" relative="1" as="geometry">
@@ -1721,8 +1718,14 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-111" value="6、返回插入结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1460" y="950" as="geometry" />
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-114" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-103" target="JasjteSDjCy3CBerbTJM-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="1040" as="sourcePoint" />
+            <mxPoint x="1900" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-112" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1715" y="920" width="10" height="20" as="geometry" />
+          <mxGeometry x="1895" y="920" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
