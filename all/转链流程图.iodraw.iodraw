@@ -1361,7 +1361,7 @@
           <mxGeometry x="500" y="1040" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7X7F4HIYYH54Mfrhrq5K-2" value="global_traffic_holmes_s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="820" y="930" width="140" height="40" as="geometry" />
+          <mxGeometry x="820" y="1040" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1523,12 +1523,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="1060" as="sourcePoint" />
             <mxPoint x="324.5" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="1040" as="sourcePoint" />
-            <mxPoint x="890" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
