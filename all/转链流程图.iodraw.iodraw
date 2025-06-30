@@ -1204,17 +1204,17 @@
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-15" value="5、将cookie写入tair缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-14">
           <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
-            <mxPoint x="22" y="88" as="offset" />
+            <mxPoint x="27" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575" y="910" as="sourcePoint" />
-            <mxPoint x="575" y="950" as="targetPoint" />
+            <mxPoint x="580" y="820" as="sourcePoint" />
+            <mxPoint x="580" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="575" y="910" />
-              <mxPoint x="625" y="910" />
-              <mxPoint x="625" y="950" />
+              <mxPoint x="580" y="820" />
+              <mxPoint x="630" y="820" />
+              <mxPoint x="630" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1324,8 +1324,8 @@
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="930" as="sourcePoint" />
-            <mxPoint x="570" y="920" as="targetPoint" />
+            <mxPoint x="575" y="840" as="sourcePoint" />
+            <mxPoint x="575" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
