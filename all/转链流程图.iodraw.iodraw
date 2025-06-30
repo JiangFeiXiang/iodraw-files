@@ -1554,7 +1554,7 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1775" y="400" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-71" target="JasjteSDjCy3CBerbTJM-72">
+        <mxCell id="JasjteSDjCy3CBerbTJM-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-94" target="JasjteSDjCy3CBerbTJM-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1490" y="710" as="sourcePoint" />
             <mxPoint x="1490" y="150" as="targetPoint" />
@@ -1627,7 +1627,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-88" value="3、发送点击信息给下游处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-87">
+        <mxCell id="JasjteSDjCy3CBerbTJM-88" value="4、发送点击信息给下游处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-87">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="36" y="2" as="offset" />
           </mxGeometry>
@@ -1655,13 +1655,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-93" value="2、插入action数据（CPI点击写入lindorm，否则mySQL）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1420" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-94" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1765" y="850" width="10" height="20" as="geometry" />
+          <mxGeometry x="1585" y="840" as="geometry" />
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-95" value="3、返回存储结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1400" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-100" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-71" target="JasjteSDjCy3CBerbTJM-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1780" y="910" as="sourcePoint" />
+            <mxPoint x="1780" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-94" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1775" y="850" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
