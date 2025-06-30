@@ -1232,22 +1232,6 @@
             <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="390" as="sourcePoint" />
-            <mxPoint x="900" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="390" />
-              <mxPoint x="950" y="390" />
-              <mxPoint x="950" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-22" value="7、根据short、bizCode获取广告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-21">
-          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
-            <mxPoint x="81" y="452" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="440" as="sourcePoint" />
@@ -1523,6 +1507,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="1060" as="sourcePoint" />
             <mxPoint x="324.5" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-57" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.1045" y="-70" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1028.5" y="400" />
+            </Array>
+            <mxPoint x="895" y="400" as="sourcePoint" />
+            <mxPoint x="1195" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
