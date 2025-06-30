@@ -1505,6 +1505,18 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-45" value="19、返回落地页链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="420" y="910" as="geometry" />
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-46" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="109.5" y="940" />
+            </Array>
+            <mxPoint x="300" y="940" as="sourcePoint" />
+            <mxPoint x="45" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-47" value="19、返回落地页链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="155" y="930" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
