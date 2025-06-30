@@ -1339,7 +1339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1495" y="400" width="10" height="60" as="geometry" />
+          <mxGeometry x="1495" y="400" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7X7F4HIYYH54Mfrhrq5K-1" value="global_traffic_holmes_f" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="1040" width="140" height="40" as="geometry" />
@@ -1515,7 +1515,7 @@
               <mxPoint x="1028.5" y="400" />
             </Array>
             <mxPoint x="895" y="400" as="sourcePoint" />
-            <mxPoint x="1470" y="400" as="targetPoint" />
+            <mxPoint x="1490" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
