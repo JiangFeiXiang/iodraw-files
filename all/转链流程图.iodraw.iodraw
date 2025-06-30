@@ -1411,7 +1411,7 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="930" as="sourcePoint" />
-            <mxPoint x="1200" y="140" as="targetPoint" />
+            <mxPoint x="1200" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-74" target="JasjteSDjCy3CBerbTJM-23">
@@ -1577,6 +1577,25 @@
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-74" value="global_traffic_holmes_s_MQ_CONSUMER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1082.5" y="1040" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="720" as="sourcePoint" />
+            <mxPoint x="910" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="720" />
+              <mxPoint x="960" y="720" />
+              <mxPoint x="960" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-76" value="14、填充返回值信息，包括cookiceMap" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-75">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="51" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-77" value="13、异步化存储点击信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
