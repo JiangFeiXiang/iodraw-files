@@ -1281,7 +1281,7 @@
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-24" value="8、环境参数构建，&lt;span style=&quot;color: rgb(0, 98, 122); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;buildWebEnvironment&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-23">
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
-            <mxPoint x="21" y="2" as="offset" />
+            <mxPoint x="81" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-25" value="13、返回生成广告链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
@@ -1392,6 +1392,22 @@
         <mxCell id="7X7F4HIYYH54Mfrhrq5K-3" value="13、返回追踪结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="740" y="590" as="geometry">
             <mxPoint x="-24" y="-219" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="450" as="sourcePoint" />
+            <mxPoint x="910" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="450" />
+              <mxPoint x="960" y="450" />
+              <mxPoint x="960" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-2" value="8、环境参数构建，&lt;span style=&quot;color: rgb(0, 98, 122); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;buildWebEnvironment&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JasjteSDjCy3CBerbTJM-1">
+          <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
+            <mxPoint x="81" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
