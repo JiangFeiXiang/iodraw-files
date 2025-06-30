@@ -1122,7 +1122,7 @@
             <mxPoint x="880" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-4" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-4" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" target="JasjteSDjCy3CBerbTJM-23">
           <mxGeometry x="-0.1045" y="-70" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1028.5" y="700" />
@@ -1587,6 +1587,9 @@
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="201" y="22" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-33" value="12、反欺诈校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="970" y="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
