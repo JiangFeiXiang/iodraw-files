@@ -1143,17 +1143,6 @@
             <mxPoint x="580" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-6" value="14 返回advLink广告链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="770" />
-              <mxPoint x="501" y="750" />
-              <mxPoint x="511" y="1115" />
-            </Array>
-            <mxPoint x="694.5" y="750" as="sourcePoint" />
-            <mxPoint x="305.5" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-7" value="15、返回生成链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1">
           <mxGeometry x="-0.0022" relative="1" as="geometry">
             <Array as="points">
@@ -1385,7 +1374,7 @@
           <mxGeometry x="820" y="840" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7X7F4HIYYH54Mfrhrq5K-3" value="13、返回追踪结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="740" y="810" as="geometry">
+          <mxGeometry x="740" y="970" as="geometry">
             <mxPoint x="-24" y="-219" as="offset" />
           </mxGeometry>
         </mxCell>
