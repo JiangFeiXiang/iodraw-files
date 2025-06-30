@@ -1728,7 +1728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vNCxt-wLnuo35_fNCsMb" name="第 8 页">
-    <mxGraphModel dx="1825" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1776,7 +1776,7 @@
           <mxGeometry x="240" y="170" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-8" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1000" width="60" height="100" as="geometry" />
+          <mxGeometry x="240" y="860" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
