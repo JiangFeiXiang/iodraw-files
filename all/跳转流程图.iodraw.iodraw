@@ -1741,8 +1741,8 @@
             <mxPoint x="304.5" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-3" value="2 匹配*/e/* ：反向代理至/short_link.htm接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pjm-y8F0Gke_kxnzz4Sk-34">
-          <mxGeometry x="0.0488" relative="1" as="geometry">
+        <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-3" value="1、点击商品链接" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pjm-y8F0Gke_kxnzz4Sk-34">
+          <mxGeometry x="0.0455" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="511.5" y="220" />
             </Array>
