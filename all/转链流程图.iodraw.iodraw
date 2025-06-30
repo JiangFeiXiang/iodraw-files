@@ -1225,7 +1225,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-17" value="6、组装请求体（&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ShortLinkReq&lt;/span&gt;）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-16">
+        <mxCell id="yj9tpLSqgcGYu2FZmiTE-17" value="6、种植慧眼cookie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yj9tpLSqgcGYu2FZmiTE-16">
           <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
             <mxPoint x="52" as="offset" />
           </mxGeometry>
