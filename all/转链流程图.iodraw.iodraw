@@ -1113,10 +1113,10 @@
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-3" value="7 请求global-traffic-holmes-s生成短链接口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="786" y="485" />
+              <mxPoint x="787.5" y="330" />
             </Array>
-            <mxPoint x="573.5" y="485" as="sourcePoint" />
-            <mxPoint x="970" y="485" as="targetPoint" />
+            <mxPoint x="575" y="330" as="sourcePoint" />
+            <mxPoint x="971.5" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-4" value="11 存站长广告、createAdvertisement" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
