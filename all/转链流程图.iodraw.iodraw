@@ -1480,6 +1480,9 @@
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JasjteSDjCy3CBerbTJM-38" value="&lt;strong style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Tahoma, Arial, STHeiti, SimSun; font-size: 14px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;森逸&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="820" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
