@@ -1135,6 +1135,7 @@
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-5" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="yj9tpLSqgcGYu2FZmiTE-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="780" y="760" />
               <mxPoint x="845" y="380" />
               <mxPoint x="787.5" y="350" />
             </Array>
@@ -1283,9 +1284,6 @@
           <mxGeometry x="-0.0285" y="-1" relative="1" as="geometry">
             <mxPoint x="81" y="2" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yj9tpLSqgcGYu2FZmiTE-25" value="13、返回生成广告链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="730" y="580" as="geometry" />
         </mxCell>
         <mxCell id="yj9tpLSqgcGYu2FZmiTE-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yj9tpLSqgcGYu2FZmiTE-42" target="yj9tpLSqgcGYu2FZmiTE-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
