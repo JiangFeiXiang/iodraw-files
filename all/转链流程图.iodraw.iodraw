@@ -1521,9 +1521,9 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-63" value="返回广告信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-67">
+        <mxCell id="JasjteSDjCy3CBerbTJM-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1580" y="850" as="sourcePoint" />
+            <mxPoint x="1590" y="400" as="sourcePoint" />
             <mxPoint x="1590" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1533,13 +1533,10 @@
         <mxCell id="JasjteSDjCy3CBerbTJM-66" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;global_traffic_&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;advertisement&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1560" y="910" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1585" y="400" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JasjteSDjCy3CBerbTJM-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-78" target="JasjteSDjCy3CBerbTJM-67">
+        <mxCell id="JasjteSDjCy3CBerbTJM-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="710" as="sourcePoint" />
-            <mxPoint x="1300" y="150" as="targetPoint" />
+            <mxPoint x="1590" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JasjteSDjCy3CBerbTJM-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JasjteSDjCy3CBerbTJM-72">
