@@ -1943,10 +1943,10 @@
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-39" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="374.5" y="920" />
+              <mxPoint x="374.5" y="880" />
             </Array>
-            <mxPoint x="565" y="920" as="sourcePoint" />
-            <mxPoint x="310" y="920" as="targetPoint" />
+            <mxPoint x="565" y="880" as="sourcePoint" />
+            <mxPoint x="310" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Pjm-y8F0Gke_kxnzz4Sk-40" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
