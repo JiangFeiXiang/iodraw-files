@@ -1204,6 +1204,7 @@
             <mxPoint x="580" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="370" />
+              <mxPoint x="610" y="370" />
               <mxPoint x="630" y="370" />
               <mxPoint x="630" y="410" />
             </Array>
