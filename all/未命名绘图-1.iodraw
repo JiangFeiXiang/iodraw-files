@@ -1808,6 +1808,17 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-25" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="269" as="sourcePoint" />
+            <mxPoint x="730" y="268.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-27" value="设置佣金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-26">
+          <mxGeometry x="0.0398" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
