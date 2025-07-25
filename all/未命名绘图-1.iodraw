@@ -1845,6 +1845,11 @@
             <mxPoint x="240" y="159.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-53" value="浏览/下单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-36">
+          <mxGeometry x="-0.1564" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.973;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="eA9uifP7Lir9qwvZaUd7-28" target="eA9uifP7Lir9qwvZaUd7-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
