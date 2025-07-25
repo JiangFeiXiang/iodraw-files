@@ -1763,13 +1763,8 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-9" value="媒体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="25" y="198" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eA9uifP7Lir9qwvZaUd7-10" target="eA9uifP7Lir9qwvZaUd7-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="258" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-10" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="228" width="50" height="60" as="geometry" />
+          <mxGeometry x="670" y="228" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-11" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="655" y="198" width="50" height="30" as="geometry" />
