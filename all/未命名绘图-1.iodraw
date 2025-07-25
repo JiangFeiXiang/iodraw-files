@@ -1775,7 +1775,7 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-13" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-14" value="投放引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-14" value="运营后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
