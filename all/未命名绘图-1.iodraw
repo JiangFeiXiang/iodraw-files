@@ -1839,7 +1839,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-35" value="归因算佣&lt;div&gt;系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-35" value="承接平台&amp;amp;&lt;div&gt;追踪系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
