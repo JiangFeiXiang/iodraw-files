@@ -1789,10 +1789,10 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-19" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="470" width="50" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-20" value="商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="345" y="440" width="50" height="30" as="geometry" />
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-20" value="运营小二" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="335" y="440" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=-0.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eA9uifP7Lir9qwvZaUd7-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="430" as="sourcePoint" />
             <mxPoint x="370" y="380" as="targetPoint" />
