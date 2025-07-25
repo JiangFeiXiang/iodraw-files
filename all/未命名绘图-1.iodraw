@@ -1797,10 +1797,10 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-25" value="媒体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="318" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="377.5" as="sourcePoint" />
-            <mxPoint x="260" y="378" as="targetPoint" />
+            <mxPoint x="140" y="378" as="sourcePoint" />
+            <mxPoint x="240" y="377.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-27" value="入驻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-26">
