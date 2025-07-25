@@ -1733,10 +1733,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eA9uifP7Lir9qwvZaUd7-1" value="商家后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="500" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-2" value="推广者后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="140" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-3" value="投放引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="100" height="40" as="geometry" />
