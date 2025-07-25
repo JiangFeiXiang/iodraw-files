@@ -1845,7 +1845,7 @@
             <mxPoint x="240" y="159.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-53" value="浏览/下单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-36">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-53" value="浏览/下单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-36">
           <mxGeometry x="-0.1564" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1853,7 +1853,7 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.973;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="eA9uifP7Lir9qwvZaUd7-28" target="eA9uifP7Lir9qwvZaUd7-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-42" value="支佣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-38">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-42" value="支佣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-38">
           <mxGeometry x="0.0149" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1863,7 +1863,7 @@
             <mxPoint x="840" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-41" value="收佣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-40">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-41" value="收佣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="eA9uifP7Lir9qwvZaUd7-40">
           <mxGeometry x="-0.05" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
