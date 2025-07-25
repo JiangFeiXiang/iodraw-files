@@ -1774,7 +1774,7 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-14" value="运营后台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="440" y="458" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="377" as="sourcePoint" />
             <mxPoint x="720" y="376.5" as="targetPoint" />
@@ -1828,7 +1828,7 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-32" value="消费者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="95" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-33" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="124.41" y="318" as="sourcePoint" />
             <mxPoint x="124.41" y="198" as="targetPoint" />
@@ -1850,7 +1850,7 @@
         <mxCell id="eA9uifP7Lir9qwvZaUd7-35" value="承接平台&amp;amp;&lt;div&gt;追踪系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="260" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="159.41" as="sourcePoint" />
             <mxPoint x="260" y="159.91" as="targetPoint" />
