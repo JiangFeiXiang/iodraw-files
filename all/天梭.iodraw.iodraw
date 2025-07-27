@@ -2060,24 +2060,6 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-53" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="780" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-61" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="750" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-62" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="440" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-64" value="混排TPP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="440" width="120" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-65" value="用增混排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-64">
-          <mxGeometry x="25" y="140" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-66" value="混排TPP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="440" width="120" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-67" value="用增混排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-66">
-          <mxGeometry x="25" y="140" width="70" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
