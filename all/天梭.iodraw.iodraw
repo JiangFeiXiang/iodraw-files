@@ -1931,9 +1931,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="850" height="520" as="geometry" />
-        </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-1" value="APP端/Msite端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="390" as="geometry" />
         </mxCell>
@@ -2063,11 +2060,8 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-53" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="780" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-61" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="750" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-62" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-61" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
