@@ -1938,15 +1938,9 @@
           <mxGeometry x="45" y="30" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-3" value="前端网关" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="120" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-3">
-          <mxGeometry x="25" y="35" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-4" value="前端容器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="120" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-4">
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-3">
           <mxGeometry x="25" y="35" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-5" value="承接TPP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
