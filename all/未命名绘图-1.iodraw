@@ -1954,7 +1954,12 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ySeI-jyKj2x5jcUINQ6Z-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="45" y="354.5" as="sourcePoint" />
-            <mxPoint x="-70" y="350" as="targetPoint" />
+            <mxPoint x="-60" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-60" value="天梭承接页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ySeI-jyKj2x5jcUINQ6Z-59">
+          <mxGeometry x="0.0858" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-3" value="前端网关" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
