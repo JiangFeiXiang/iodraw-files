@@ -1970,11 +1970,8 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-21" value="视图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-5">
           <mxGeometry x="25" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-20" value="补全" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-5">
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-20" value="展示策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-5">
           <mxGeometry x="25" y="340" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-19" value="后置过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-5">
-          <mxGeometry x="25" y="390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-23" value="展示策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-5">
           <mxGeometry x="25" y="490" width="70" height="30" as="geometry" />
