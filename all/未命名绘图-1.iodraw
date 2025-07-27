@@ -1991,6 +1991,15 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-26" value="后置过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="990" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-29" value="召回算法" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="450" width="120" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-30" value="自然品召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-29">
+          <mxGeometry x="25" y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-31" value="广告品召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-29">
+          <mxGeometry x="25" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
