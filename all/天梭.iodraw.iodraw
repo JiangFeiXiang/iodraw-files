@@ -1932,7 +1932,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="420" width="760" height="460" as="geometry" />
+          <mxGeometry x="290" y="420" width="780" height="460" as="geometry" />
         </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-1" value="APP端/Msite端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="390" as="geometry" />
