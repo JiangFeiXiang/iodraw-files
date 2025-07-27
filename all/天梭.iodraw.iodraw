@@ -2066,6 +2066,9 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-62" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
