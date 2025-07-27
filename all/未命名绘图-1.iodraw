@@ -1951,7 +1951,7 @@
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-3" value="前端网关" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="120" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-3">
+        <mxCell id="ySeI-jyKj2x5jcUINQ6Z-8" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;MTOP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ySeI-jyKj2x5jcUINQ6Z-3">
           <mxGeometry x="25" y="40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ySeI-jyKj2x5jcUINQ6Z-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ySeI-jyKj2x5jcUINQ6Z-3">
