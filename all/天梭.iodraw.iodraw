@@ -2137,6 +2137,9 @@
         <mxCell id="54xHmOcBoBvrYqoEpYc2-45" value="排查类问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="54xHmOcBoBvrYqoEpYc2-13">
           <mxGeometry x="25" y="230" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="54xHmOcBoBvrYqoEpYc2-48" value="意图识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="54xHmOcBoBvrYqoEpYc2-13">
+          <mxGeometry x="20" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="54xHmOcBoBvrYqoEpYc2-27" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="470" width="40" height="40" as="geometry" />
         </mxCell>
@@ -2193,9 +2196,6 @@
         </mxCell>
         <mxCell id="54xHmOcBoBvrYqoEpYc2-26" value="展示策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1250" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="54xHmOcBoBvrYqoEpYc2-48" value="意图识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="630" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
