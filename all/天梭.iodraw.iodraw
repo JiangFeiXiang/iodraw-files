@@ -2228,9 +2228,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_QoPHa0bEibMtgiiLHR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_QoPHa0bEibMtgiiLHR-7" target="v_QoPHa0bEibMtgiiLHR-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="v_QoPHa0bEibMtgiiLHR-7" value="钉钉机器人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="40" as="geometry" />
         </mxCell>
