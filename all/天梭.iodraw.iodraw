@@ -2073,10 +2073,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="54xHmOcBoBvrYqoEpYc2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="400" width="780" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="54xHmOcBoBvrYqoEpYc2-2" value="APP端/Msite端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="54xHmOcBoBvrYqoEpYc2-2" value="钉钉机器人" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="390" as="geometry" />
         </mxCell>
         <mxCell id="54xHmOcBoBvrYqoEpYc2-3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="54xHmOcBoBvrYqoEpYc2-2">
