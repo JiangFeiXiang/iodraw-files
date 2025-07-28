@@ -2197,6 +2197,9 @@
         <mxCell id="54xHmOcBoBvrYqoEpYc2-26" value="展示策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="1250" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="54xHmOcBoBvrYqoEpYc2-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
