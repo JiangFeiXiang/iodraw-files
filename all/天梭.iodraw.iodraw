@@ -2205,7 +2205,7 @@
         <mxCell id="54xHmOcBoBvrYqoEpYc2-40" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="750" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="54xHmOcBoBvrYqoEpYc2-41" value="消费者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="54xHmOcBoBvrYqoEpYc2-41" value="运营" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
