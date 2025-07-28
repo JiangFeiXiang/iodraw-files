@@ -2223,22 +2223,16 @@
             <mxPoint x="240" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U6r8bPe3lY9IvcoMPs6x-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_QoPHa0bEibMtgiiLHR-3">
+        <mxCell id="U6r8bPe3lY9IvcoMPs6x-1" value="问题咨询/排查" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v_QoPHa0bEibMtgiiLHR-3">
           <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v_QoPHa0bEibMtgiiLHR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_QoPHa0bEibMtgiiLHR-7" target="v_QoPHa0bEibMtgiiLHR-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v_QoPHa0bEibMtgiiLHR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_QoPHa0bEibMtgiiLHR-7" target="v_QoPHa0bEibMtgiiLHR-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v_QoPHa0bEibMtgiiLHR-7" value="钉钉机器人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="v_QoPHa0bEibMtgiiLHR-8" value="Alibaba翻译&#xa;（机器翻译）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v_QoPHa0bEibMtgiiLHR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_QoPHa0bEibMtgiiLHR-11" target="v_QoPHa0bEibMtgiiLHR-24">
           <mxGeometry relative="1" as="geometry" />
