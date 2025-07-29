@@ -1754,7 +1754,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eA9uifP7Lir9qwvZaUd7-3" value="投放引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="eA9uifP7Lir9qwvZaUd7-3" value="联盟中台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="440" y="358" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eA9uifP7Lir9qwvZaUd7-10" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
