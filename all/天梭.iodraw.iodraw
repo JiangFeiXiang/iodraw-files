@@ -2353,8 +2353,8 @@
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-29" value="种子&#xa;问题&#xa;改写&#xa;扩充" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="700" y="206.5" width="63" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-31" value="种子&#xa;问题&#xa;改写&#xa;扩充" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="710" y="216.5" width="63" height="84" as="geometry" />
+        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-31" value="知识&#xa;库&#xa;更新" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="810" y="206.5" width="63" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
