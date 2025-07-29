@@ -558,7 +558,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wlg8m7dnrfTXlKShktzX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="120" width="1060" height="510" as="geometry" />
+          <mxGeometry y="120" width="1070" height="510" as="geometry" />
         </mxCell>
         <mxCell id="xs_ZuntT76YW_u8tHmAF-1" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="320" width="30" height="60" as="geometry" />
@@ -695,7 +695,7 @@
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-19" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQWbqK1sLg0QMeXgHsQa-20" value="回复策略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OQWbqK1sLg0QMeXgHsQa-20" value="Prompt工程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-21" value="Prompt工程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
