@@ -2323,9 +2323,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-3" value="例行&#xa;    提取&#xa;    最新&#xa;    历史&#xa;    回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="189.5" width="93" height="119" as="geometry" />
-        </mxCell>
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-6" value="常见&#xa;    问题&#xa;    总结" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="469" y="207" width="63" height="84" as="geometry" />
         </mxCell>
@@ -2395,6 +2392,9 @@
               <mxPoint x="1237" y="307" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-23" value="常见&#xa;    问题&#xa;    总结" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="479" y="217" width="63" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
