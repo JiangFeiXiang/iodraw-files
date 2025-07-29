@@ -609,6 +609,9 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-23" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="955" y="160" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wlg8m7dnrfTXlKShktzX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fkW3nxKSXSyvo5TkJswk-39" target="OQWbqK1sLg0QMeXgHsQa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="270" width="120" height="140" as="geometry" />
         </mxCell>
@@ -715,15 +718,6 @@
         <mxCell id="OQWbqK1sLg0QMeXgHsQa-33" value="后训练优化更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OQWbqK1sLg0QMeXgHsQa-31" vertex="1" connectable="0">
           <mxGeometry x="-0.8748" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-45" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OQWbqK1sLg0QMeXgHsQa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fkW3nxKSXSyvo5TkJswk-39" target="OQWbqK1sLg0QMeXgHsQa-15" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="970" y="560" />
-              <mxPoint x="695" y="560" />
-              <mxPoint x="695" y="500" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
