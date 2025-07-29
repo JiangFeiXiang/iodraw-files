@@ -2324,10 +2324,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-3" value="例行&#xa;    提取&#xa;    最新&#xa;    历史&#xa;    回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="189" width="93" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-4" value="邮件&#xa;    回复&#xa;    上下文" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="233" y="207" width="79" height="84" as="geometry" />
+          <mxGeometry x="320" y="189.5" width="93" height="119" as="geometry" />
         </mxCell>
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-6" value="常见&#xa;    问题&#xa;    总结" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="469" y="207" width="63" height="84" as="geometry" />
@@ -2349,17 +2346,6 @@
         </mxCell>
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-12" value="例行提炼新增种子问题与常见回复方&#xa;    法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="986" y="265" width="226" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=-0.01;entryY=0.49;rounded=0;" edge="1" parent="1" source="NmkcG1f-mnZ6yMj9Cryf-3" target="NmkcG1f-mnZ6yMj9Cryf-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="NmkcG1f-mnZ6yMj9Cryf-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="362" y="248.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" target="NmkcG1f-mnZ6yMj9Cryf-6">
           <mxGeometry relative="1" as="geometry">
