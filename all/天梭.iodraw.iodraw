@@ -2354,6 +2354,9 @@
         <mxCell id="NmkcG1f-mnZ6yMj9Cryf-25" value="运营&#xa;咨询&#xa;后台&#xa;记录&#xa;（增量）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="360" y="291" width="63" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-28" value="常见&#xa;    问题&#xa;    总结" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="580" y="207" width="63" height="84" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
