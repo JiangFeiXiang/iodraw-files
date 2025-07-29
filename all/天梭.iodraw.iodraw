@@ -595,10 +595,15 @@
         <mxCell id="fkW3nxKSXSyvo5TkJswk-18" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="430" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkW3nxKSXSyvo5TkJswk-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="fkW3nxKSXSyvo5TkJswk-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="fkW3nxKSXSyvo5TkJswk-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="460" as="sourcePoint" />
             <mxPoint x="150" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlg8m7dnrfTXlKShktzX-3" value="整理、更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fkW3nxKSXSyvo5TkJswk-19">
+          <mxGeometry x="-0.1389" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fkW3nxKSXSyvo5TkJswk-23" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
