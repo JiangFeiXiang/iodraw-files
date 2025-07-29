@@ -2393,8 +2393,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-23" value="常见&#xa;    问题&#xa;    总结" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="479" y="217" width="63" height="84" as="geometry" />
+        <mxCell id="NmkcG1f-mnZ6yMj9Cryf-23" value="人工&#xa;收集&#xa;工单&#xa;问题" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="360" y="206" width="63" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
