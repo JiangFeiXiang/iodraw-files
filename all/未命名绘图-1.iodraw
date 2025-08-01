@@ -95,8 +95,14 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-38" value="node:API相关&lt;div&gt;promopt构造&lt;br&gt;&lt;div&gt;type:TOOL&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="480" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79y3kGFwtRCPsNPZWKo1-44" target="79y3kGFwtRCPsNPZWKo1-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-44" value="node:Feeds物料&lt;div&gt;promopt构造&lt;br&gt;&lt;div&gt;type:TOOL&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79y3kGFwtRCPsNPZWKo1-45" target="79y3kGFwtRCPsNPZWKo1-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-45" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;node:&lt;font face=&quot;Helvetica Neue&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;S2S相关&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;promopt构造&lt;br&gt;&lt;div&gt;type:TOOL&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="480" width="100" height="50" as="geometry" />
