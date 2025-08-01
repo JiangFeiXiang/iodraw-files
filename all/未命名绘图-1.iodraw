@@ -159,7 +159,7 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-65" value="node:结果返回&lt;div&gt;type:response&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-79" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-79" value="百晓生Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
