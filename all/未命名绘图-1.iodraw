@@ -27,8 +27,8 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-8" value="node:start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="100" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-9" value="node:场景识别&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
