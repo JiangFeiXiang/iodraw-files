@@ -216,8 +216,8 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-102" value="反馈存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="120" height="780" as="geometry" />
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-103" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
