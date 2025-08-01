@@ -101,7 +101,7 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-47" value="node:如意投相关&lt;div&gt;promopt构造&lt;br&gt;&lt;div&gt;type:TOOL&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="480" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-53" value="node:意图识别&lt;div&gt;type:LLM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-53" value="node:回复内容生成&lt;div&gt;type:LLM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="570" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
