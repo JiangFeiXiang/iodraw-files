@@ -182,10 +182,10 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-90" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-91" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="79y3kGFwtRCPsNPZWKo1-93">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="670" as="sourcePoint" />
-            <mxPoint x="120" y="720" as="targetPoint" />
+            <mxPoint x="120" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-92" value="咨询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79y3kGFwtRCPsNPZWKo1-91">
