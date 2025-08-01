@@ -39,7 +39,7 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-13" value="node:意图分支判定&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-15" value="node:意图分支判定&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-15" value="node:商品无法外投&lt;div&gt;type:MCP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-16" value="node:查无订单&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
