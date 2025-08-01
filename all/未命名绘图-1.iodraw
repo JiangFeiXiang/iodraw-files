@@ -13,16 +13,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="79y3kGFwtRCPsNPZWKo1-1" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="110" width="30" height="50" as="geometry" />
+          <mxGeometry x="80" y="110" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="140" as="sourcePoint" />
-            <mxPoint x="250" y="140" as="targetPoint" />
+            <mxPoint x="120" y="140" as="sourcePoint" />
+            <mxPoint x="170" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-6" value="钉钉机器人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="130" width="70" height="20" as="geometry" />
+          <mxGeometry x="170" y="130" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79y3kGFwtRCPsNPZWKo1-8" target="79y3kGFwtRCPsNPZWKo1-9">
           <mxGeometry relative="1" as="geometry" />
