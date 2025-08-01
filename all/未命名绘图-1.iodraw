@@ -165,8 +165,8 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-79" value="联盟百晓生Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-81" value="联盟百晓生Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="70" width="120" height="30" as="geometry" />
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-81" value="人机交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="60" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
