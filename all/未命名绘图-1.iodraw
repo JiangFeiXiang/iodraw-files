@@ -45,6 +45,18 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-16" value="node:查无订单&lt;div&gt;type:MCP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-17" value="node:意图识别&lt;div&gt;type:LLM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-18" value="node:意图分支判定&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-19" value="node:商品无法外投&lt;div&gt;type:MCP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-20" value="node:查无订单&lt;div&gt;type:MCP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
