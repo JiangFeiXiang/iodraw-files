@@ -24,6 +24,9 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-6" value="钉钉机器人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
