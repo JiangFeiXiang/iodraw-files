@@ -36,8 +36,8 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-12" value="node:意图识别&lt;div&gt;type:LLM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-13" value="node:场景识别&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-13" value="node:意图分支判定&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
