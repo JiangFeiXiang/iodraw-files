@@ -33,13 +33,18 @@
         <mxCell id="79y3kGFwtRCPsNPZWKo1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79y3kGFwtRCPsNPZWKo1-9" target="79y3kGFwtRCPsNPZWKo1-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79y3kGFwtRCPsNPZWKo1-61" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79y3kGFwtRCPsNPZWKo1-59">
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-61" value="&lt;span style=&quot;white-space-collapse: preserve;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJlTE5xWVpZdzV6JTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjJpbnZlc3RpZ2F0ZSUyMiUyQyUyMmRzdCUyMiUzQSUyMiVFOCVCMCU4MyVFNiU5RiVBNSUyMiUyQyUyMm1ldGFkYXRhJTIyJTNBJTIyJTVCJTVEJTIyJTJDJTIybWF0Y2hlcyUyMiUzQSU1QiU1RCUyQyUyMmFkYXB0ZWRNYXRjaGVzJTIyJTNBJTdCJTIydGVybXMlMjIlM0ElNUIlNUQlMkMlMjJtZW1zJTIyJTNBJTVCJTVEJTdEJTJDJTIybWV0YURhdGElMjIlM0ElNUIlNUQlMkMlMjJiS1Rlcm1EYXRhJTIyJTNBJTVCJTVEJTJDJTIydGV4dCUyMiUzQSUyMmludmVzdGlnYXRlJTIyJTdEJTVEJTdEJTVE&quot;&gt;investigate&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79y3kGFwtRCPsNPZWKo1-59">
           <mxGeometry x="0.0455" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79y3kGFwtRCPsNPZWKo1-9" target="79y3kGFwtRCPsNPZWKo1-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79y3kGFwtRCPsNPZWKo1-62" value="consult" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79y3kGFwtRCPsNPZWKo1-60">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="79y3kGFwtRCPsNPZWKo1-9" value="node:场景识别&lt;div&gt;type:condition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="160" width="120" height="40" as="geometry" />
