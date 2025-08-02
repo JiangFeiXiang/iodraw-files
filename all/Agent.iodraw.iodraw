@@ -257,6 +257,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="140" width="300" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="119" width="350" height="721" as="geometry" />
         </mxCell>
@@ -342,7 +345,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-20" target="OoFLQOwExO6sxmNSTRSI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-20" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-20" value="文本向量化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="321.5" width="80" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-21" target="OoFLQOwExO6sxmNSTRSI-23">
@@ -487,9 +490,6 @@
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-72" value="输出回答+&lt;div&gt;知识来源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1160" y="760" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
