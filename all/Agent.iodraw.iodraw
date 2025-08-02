@@ -497,6 +497,9 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-83" value="用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-84" value="用户输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
