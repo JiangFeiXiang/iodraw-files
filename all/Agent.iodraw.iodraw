@@ -344,13 +344,13 @@
           <mxGeometry x="720" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-24" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-25" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-26" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-27" value="相似度检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="80" height="40" as="geometry" />
