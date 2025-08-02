@@ -455,6 +455,9 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-60" value="LLM生成答案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1160" y="700" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-62" target="OoFLQOwExO6sxmNSTRSI-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-62" value="图遍历查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1230" y="420.5" width="100" height="40" as="geometry" />
         </mxCell>
@@ -484,7 +487,7 @@
           <mxGeometry x="1240" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-72" value="输出回答+&lt;div&gt;知识来源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="890" width="80" height="40" as="geometry" />
+          <mxGeometry x="1160" y="830" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
