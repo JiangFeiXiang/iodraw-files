@@ -447,18 +447,18 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-56" value="输出回答+&lt;div&gt;知识来源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1160" y="700" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-58">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="820" as="sourcePoint" />
             <mxPoint x="1200" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-58" value="LLM生成答案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="780" width="80" height="40" as="geometry" />
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-60" target="OoFLQOwExO6sxmNSTRSI-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-60" value="子图谱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-60" value="LLM生成答案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1160" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-62" value="图遍历查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
