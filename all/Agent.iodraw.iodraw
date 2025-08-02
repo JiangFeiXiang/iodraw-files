@@ -346,7 +346,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-24" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-25" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-25" value="LLM生成答案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-26" value="相关片段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
