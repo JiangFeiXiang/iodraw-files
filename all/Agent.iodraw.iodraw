@@ -409,6 +409,9 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-34" value="LLM查找各个业务方负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="600" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
