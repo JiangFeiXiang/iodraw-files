@@ -340,7 +340,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-22" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="321.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-23" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-23" value="分块/切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-24" value="用户问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
