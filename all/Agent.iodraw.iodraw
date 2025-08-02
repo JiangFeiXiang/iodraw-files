@@ -447,7 +447,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-60" target="OoFLQOwExO6sxmNSTRSI-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-60" value="LLM生成答案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-60" value="LLM生成答案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1160" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-62" target="OoFLQOwExO6sxmNSTRSI-71">
@@ -467,7 +467,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-67" target="OoFLQOwExO6sxmNSTRSI-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-67" value="最强相似度&lt;div&gt;&amp;gt;阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-67" value="最强相似度&lt;div&gt;&amp;gt;阈值&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1240" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-68" value="输出“未找到准确答案”+业务方负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -476,13 +476,13 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-70" target="OoFLQOwExO6sxmNSTRSI-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-70" value="LLM查找各个业务方负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-70" value="LLM查找各个业务方负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1320" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-71" target="OoFLQOwExO6sxmNSTRSI-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-71" value="子图谱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-71" value="子图谱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1240" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-72" value="输出回答+&lt;div&gt;知识来源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
