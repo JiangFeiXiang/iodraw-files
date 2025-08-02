@@ -429,7 +429,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-51" target="OoFLQOwExO6sxmNSTRSI-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-51" value="知识库文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-51" value="知识库文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1320" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-53" target="OoFLQOwExO6sxmNSTRSI-62">
@@ -441,7 +441,7 @@
         <mxCell id="OoFLQOwExO6sxmNSTRSI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-55" target="OoFLQOwExO6sxmNSTRSI-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OoFLQOwExO6sxmNSTRSI-55" value="图数据库构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-55" value="图数据库构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1320" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-60" target="OoFLQOwExO6sxmNSTRSI-72">
@@ -478,6 +478,9 @@
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-70" value="LLM查找各个业务方负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1320" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OoFLQOwExO6sxmNSTRSI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OoFLQOwExO6sxmNSTRSI-71" target="OoFLQOwExO6sxmNSTRSI-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoFLQOwExO6sxmNSTRSI-71" value="子图谱" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1240" y="500" width="80" height="40" as="geometry" />
