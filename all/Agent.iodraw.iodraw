@@ -560,7 +560,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYczdTG9aF0Riqt-BgrG-18" target="pYczdTG9aF0Riqt-BgrG-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="660" />
+              <mxPoint x="200" y="660" />
+              <mxPoint x="200" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-18" value="待过滤商品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="80" height="40" as="geometry" />
@@ -612,6 +618,9 @@
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-29" value="结果商品集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pYczdTG9aF0Riqt-BgrG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYczdTG9aF0Riqt-BgrG-32" target="pYczdTG9aF0Riqt-BgrG-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-32" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;位运算&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="80" height="40" as="geometry" />
