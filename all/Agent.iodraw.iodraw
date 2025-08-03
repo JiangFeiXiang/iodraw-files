@@ -518,7 +518,7 @@
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-4" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;商品下架、删除或审核未通过&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
