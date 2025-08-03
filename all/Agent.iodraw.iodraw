@@ -551,7 +551,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-18" value="待过滤商品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-20" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;商品下架、删除或审核未通过&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
@@ -585,7 +585,7 @@
           <mxGeometry x="240" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-29" value="结果商品集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-32" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;位运算&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="640" width="80" height="40" as="geometry" />
