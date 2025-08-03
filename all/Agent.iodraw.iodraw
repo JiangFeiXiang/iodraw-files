@@ -553,19 +553,16 @@
         <mxCell id="pYczdTG9aF0Riqt-BgrG-18" value="待过滤商品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pYczdTG9aF0Riqt-BgrG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYczdTG9aF0Riqt-BgrG-20" target="pYczdTG9aF0Riqt-BgrG-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-20" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;商品下架、删除或审核未通过&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pYczdTG9aF0Riqt-BgrG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYczdTG9aF0Riqt-BgrG-22" target="pYczdTG9aF0Riqt-BgrG-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-22" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;无库存&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="390" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pYczdTG9aF0Riqt-BgrG-24" target="pYczdTG9aF0Riqt-BgrG-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pYczdTG9aF0Riqt-BgrG-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pYczdTG9aF0Riqt-BgrG-24" target="pYczdTG9aF0Riqt-BgrG-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pYczdTG9aF0Riqt-BgrG-24" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;物流不可达&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
