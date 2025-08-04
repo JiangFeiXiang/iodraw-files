@@ -548,6 +548,9 @@
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-3" value="输入：推广链接、投放国家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
