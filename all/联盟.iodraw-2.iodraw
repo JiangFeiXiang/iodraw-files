@@ -2194,6 +2194,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-1" value="待过滤商品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="29" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-2" value="商品下架、删除或审核未通过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="212" y="20" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-3" value="无库存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="517" y="29" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-4" value="物流不可达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="676" y="29" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-5" value="CRO禁限售" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="868" y="29" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-6" value="近30天0动销过滤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="29" width="183" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-7" value="结果商品集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="29" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Bg9Ykx_DuIzlOgp_LAy_-1" target="Bg9Ykx_DuIzlOgp_LAy_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Bg9Ykx_DuIzlOgp_LAy_-2" target="Bg9Ykx_DuIzlOgp_LAy_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Bg9Ykx_DuIzlOgp_LAy_-3" target="Bg9Ykx_DuIzlOgp_LAy_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Bg9Ykx_DuIzlOgp_LAy_-4" target="Bg9Ykx_DuIzlOgp_LAy_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Bg9Ykx_DuIzlOgp_LAy_-5" target="Bg9Ykx_DuIzlOgp_LAy_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="Bg9Ykx_DuIzlOgp_LAy_-6" target="Bg9Ykx_DuIzlOgp_LAy_-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
