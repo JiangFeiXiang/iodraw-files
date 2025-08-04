@@ -702,6 +702,9 @@
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-37" value="商品是联盟品" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1480" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="1340" height="830" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
