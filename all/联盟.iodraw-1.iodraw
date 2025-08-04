@@ -343,7 +343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uA1qaKv4zhUunVGiWrOj" name="第 2 页">
-    <mxGraphModel dx="1553" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2070" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,6 +544,9 @@
             <mxPoint x="110" y="519.5" as="sourcePoint" />
             <mxPoint x="150" y="519.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-2" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="500" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
