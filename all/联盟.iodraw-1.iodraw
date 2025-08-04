@@ -801,22 +801,10 @@
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-77" value="商品被分控" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="2060" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-78" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4gg7qf-Xk5PX1Zt0nGze-68">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="2040" as="sourcePoint" />
-            <mxPoint x="620" y="1990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-79" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="1920" as="sourcePoint" />
             <mxPoint x="710" y="1920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="2159" as="sourcePoint" />
-            <mxPoint x="1110" y="2159.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
