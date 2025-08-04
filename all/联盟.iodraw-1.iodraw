@@ -554,7 +554,7 @@
           <mxGeometry x="200" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-4" value="运营后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-5" value="输出：无法推广&lt;div&gt;详细原因&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1200" width="120" height="40" as="geometry" />
