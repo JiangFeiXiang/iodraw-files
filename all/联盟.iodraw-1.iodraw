@@ -582,6 +582,11 @@
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-12" value="iGraph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="920" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4gg7qf-Xk5PX1Zt0nGze-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-13" value="供应链服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="920" width="160" height="40" as="geometry" />
         </mxCell>
