@@ -805,9 +805,6 @@
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-89" value="订单&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;color: var(--md-box-samantha-normal-text-color) !important&quot; class=&quot;ne-text&quot;&gt;超过窗口期&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="2300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1680" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
