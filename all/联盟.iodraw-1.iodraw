@@ -571,14 +571,14 @@
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-10" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="920" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-11" value="供应链服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-11" value="IC服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-12" value="供应链服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-13" value="供应链服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="930" width="160" height="40" as="geometry" />
+          <mxGeometry x="880" y="920" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
