@@ -717,9 +717,6 @@
             <mxPoint x="519.1700000000001" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-51" value="获取商家信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="2280" width="120" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
