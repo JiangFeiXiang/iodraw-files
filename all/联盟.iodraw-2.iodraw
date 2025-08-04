@@ -2247,10 +2247,10 @@
         <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-16" value="商品无库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-17" value="CRO禁限售" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-18" value="物流不可达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bg9Ykx_DuIzlOgp_LAy_-19" value="待过滤商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
