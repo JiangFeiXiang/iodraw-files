@@ -569,10 +569,10 @@
           <mxGeometry x="500" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-10" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="920" width="160" height="40" as="geometry" />
+          <mxGeometry x="1300" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-11" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="930" width="160" height="40" as="geometry" />
+          <mxGeometry x="890" y="930" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
