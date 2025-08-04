@@ -347,6 +347,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="1340" height="830" as="geometry" />
+        </mxCell>
         <mxCell id="5TZsJ1cRw0UPwzD1He5A-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="1500" height="610" as="geometry" />
         </mxCell>
@@ -551,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-3" value="输入：推广链接、投放国家" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-4" value="运营后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="920" width="160" height="40" as="geometry" />
@@ -701,9 +704,6 @@
         </mxCell>
         <mxCell id="4gg7qf-Xk5PX1Zt0nGze-37" value="商品是联盟品" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1480" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="880" width="1340" height="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
