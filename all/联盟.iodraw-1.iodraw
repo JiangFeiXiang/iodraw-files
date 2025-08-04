@@ -670,7 +670,7 @@
             <mxPoint x="560" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-35" value="商品被分控" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4gg7qf-Xk5PX1Zt0nGze-35" value="商品被售罄" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
